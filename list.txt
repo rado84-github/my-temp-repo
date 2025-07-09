@@ -1,0 +1,2676 @@
+/opt/audacious-4.4:
+общо 12
+drwxr-xr-x  2 root root 4096 юли 10 00:39 bin/
+drwxr-xr-x  3 root root   99 юли 10 00:39 config/
+drwxr-xr-x  7 root root   90 юли 10 00:39 include/
+drwxr-xr-x  8 root root 4096 юли 10 00:39 lib/
+drwxr-xr-x 18 root root 4096 юли 10 00:39 share/
+
+/opt/audacious-4.4/bin:
+общо 1004
+-rwxr-xr-x 1 root root 219144 юли 10 00:39 audacious*
+-rwxr-xr-x 1 root root 120960 юли 10 00:39 broadwayd*
+-rwxr-xr-x 1 root root  22656 юли 10 00:39 gapplication*
+-rwxr-xr-x 1 root root  47224 юли 10 00:39 gdbus*
+-rwxr-xr-x 1 root root 166816 юли 10 00:39 gi-compile-repository*
+-rwxr-xr-x 1 root root  43144 юли 10 00:39 gi-decompile-typelib*
+-rwxr-xr-x 1 root root  14472 юли 10 00:39 gi-inspect-typelib*
+-rwxr-xr-x 1 root root  84104 юли 10 00:39 gio*
+-rwxr-xr-x 1 root root  18480 юли 10 00:39 gio-querymodules*
+-rwxr-xr-x 1 root root  47240 юли 10 00:39 glib-compile-resources*
+-rwxr-xr-x 1 root root  51336 юли 10 00:39 glib-compile-schemas*
+-rwxr-xr-x 1 root root   5433 юли 10 00:39 glib-gettextize*
+-rwxr-xr-x 1 root root  14384 юли 10 00:39 gobject-query*
+-rwxr-xr-x 1 root root  30840 юли 10 00:39 gsettings*
+-rwxr-xr-x 1 root root  31208 юли 10 00:39 gtk-builder-tool*
+-rwxr-xr-x 1 root root  18600 юли 10 00:39 gtk-encode-symbolic-svg*
+-rwxr-xr-x 1 root root  18640 юли 10 00:39 gtk-launch*
+-rwxr-xr-x 1 root root  22664 юли 10 00:39 gtk-query-immodules-3.0*
+-rwxr-xr-x 1 root root  14392 юли 10 00:39 gtk-query-settings*
+
+/opt/audacious-4.4/config:
+общо 32
+-rwxr-xr-x 1 root root  3107 юли 10 00:39 config*
+-rw-r--r-- 1 root root  1313 юли 10 00:39 eq.preset
+drwxr-xr-x 2 root root    37 юли 10 00:39 playlists/
+-rw-r--r-- 1 root root   337 юли 10 00:39 playlist-state
+-rwxr-xr-x 1 root root 16921 юли 10 00:39 plugin-registry*
+
+/opt/audacious-4.4/config/playlists:
+общо 24
+-rw-r--r-- 1 root root 20351 юли 10 00:39 1000.audpl
+-rw-r--r-- 1 root root     4 юли 10 00:39 order
+
+/opt/audacious-4.4/include:
+общо 0
+drwxr-xr-x 2 root root  22 юли 10 00:39 audacious/
+drwxr-xr-x 3 root root  26 юли 10 00:39 gail-3.0/
+drwxr-xr-x 3 root root  17 юли 10 00:39 gio-unix-2.0/
+drwxr-xr-x 7 root root 150 юли 10 00:39 glib-2.0/
+drwxr-xr-x 5 root root  46 юли 10 00:39 gtk-3.0/
+
+/opt/audacious-4.4/include/audacious:
+общо 4
+-rw-r--r-- 1 root root 1228 юли 10 00:39 audtag.h
+
+/opt/audacious-4.4/include/gail-3.0:
+общо 0
+drwxr-xr-x 2 root root 65 юли 10 00:39 libgail-util/
+
+/opt/audacious-4.4/include/gail-3.0/libgail-util:
+общо 16
+-rw-r--r-- 1 root root 4114 юли 10 00:39 gailmisc.h
+-rw-r--r-- 1 root root 3513 юли 10 00:39 gailtextutil.h
+-rw-r--r-- 1 root root   74 юли 10 00:39 gail-util.h
+
+/opt/audacious-4.4/include/gio-unix-2.0:
+общо 0
+drwxr-xr-x 2 root root 159 юли 10 00:39 gio/
+
+/opt/audacious-4.4/include/gio-unix-2.0/gio:
+общо 36
+-rw-r--r-- 1 root root 8696 юли 10 00:39 gdesktopappinfo.h
+-rw-r--r-- 1 root root 2239 юли 10 00:39 gfiledescriptorbased.h
+-rw-r--r-- 1 root root 3810 юли 10 00:39 gunixfdmessage.h
+-rw-r--r-- 1 root root 2951 юли 10 00:39 gunixinputstream.h
+-rw-r--r-- 1 root root 8095 юли 10 00:39 gunixmounts.h
+-rw-r--r-- 1 root root 2980 юли 10 00:39 gunixoutputstream.h
+
+/opt/audacious-4.4/include/glib-2.0:
+общо 52
+drwxr-xr-x 2 root root  8192 юли 10 00:39 gio/
+drwxr-xr-x 2 root root  4096 юли 10 00:39 girepository/
+drwxr-xr-x 3 root root  4096 юли 10 00:39 glib/
+-rw-r--r-- 1 root root  3513 юли 10 00:39 glib.h
+-rw-r--r-- 1 root root  1580 юли 10 00:39 glib-object.h
+-rw-r--r-- 1 root root 10663 юли 10 00:39 glib-unix.h
+drwxr-xr-x 2 root root    34 юли 10 00:39 gmodule/
+-rw-r--r-- 1 root root  5312 юли 10 00:39 gmodule.h
+drwxr-xr-x 2 root root  4096 юли 10 00:39 gobject/
+
+/opt/audacious-4.4/include/glib-2.0/gio:
+общо 1424
+-rw-r--r-- 1 root root  1815 юли 10 00:39 gactiongroupexporter.h
+-rw-r--r-- 1 root root  9227 юли 10 00:39 gactiongroup.h
+-rw-r--r-- 1 root root  4647 юли 10 00:39 gaction.h
+-rw-r--r-- 1 root root  4374 юли 10 00:39 gactionmap.h
+-rw-r--r-- 1 root root 20588 юли 10 00:39 gappinfo.h
+-rw-r--r-- 1 root root  6903 юли 10 00:39 gapplicationcommandline.h
+-rw-r--r-- 1 root root 15105 юли 10 00:39 gapplication.h
+-rw-r--r-- 1 root root  4361 юли 10 00:39 gasyncinitable.h
+-rw-r--r-- 1 root root  2716 юли 10 00:39 gasyncresult.h
+-rw-r--r-- 1 root root  5168 юли 10 00:39 gbufferedinputstream.h
+-rw-r--r-- 1 root root  3272 юли 10 00:39 gbufferedoutputstream.h
+-rw-r--r-- 1 root root  1613 юли 10 00:39 gbytesicon.h
+-rw-r--r-- 1 root root  4029 юли 10 00:39 gcancellable.h
+-rw-r--r-- 1 root root  2562 юли 10 00:39 gcharsetconverter.h
+-rw-r--r-- 1 root root  3004 юли 10 00:39 gcontenttype.h
+-rw-r--r-- 1 root root  3065 юли 10 00:39 gconverter.h
+-rw-r--r-- 1 root root  2947 юли 10 00:39 gconverterinputstream.h
+-rw-r--r-- 1 root root  2984 юли 10 00:39 gconverteroutputstream.h
+-rw-r--r-- 1 root root  3449 юли 10 00:39 gcredentials.h
+-rw-r--r-- 1 root root  6594 юли 10 00:39 gdatagrambased.h
+-rw-r--r-- 1 root root 10989 юли 10 00:39 gdatainputstream.h
+-rw-r--r-- 1 root root  4782 юли 10 00:39 gdataoutputstream.h
+-rw-r--r-- 1 root root  2786 юли 10 00:39 gdbusactiongroup.h
+-rw-r--r-- 1 root root  2712 юли 10 00:39 gdbusaddress.h
+-rw-r--r-- 1 root root  2175 юли 10 00:39 gdbusauthobserver.h
+-rw-r--r-- 1 root root 39087 юли 10 00:39 gdbusconnection.h
+-rw-r--r-- 1 root root  4344 юли 10 00:39 gdbuserror.h
+-rw-r--r-- 1 root root  3029 юли 10 00:39 gdbusinterface.h
+-rw-r--r-- 1 root root  5916 юли 10 00:39 gdbusinterfaceskeleton.h
+-rw-r--r-- 1 root root 12522 юли 10 00:39 gdbusintrospection.h
+-rw-r--r-- 1 root root  1777 юли 10 00:39 gdbusmenumodel.h
+-rw-r--r-- 1 root root 11543 юли 10 00:39 gdbusmessage.h
+-rw-r--r-- 1 root root  6954 юли 10 00:39 gdbusmethodinvocation.h
+-rw-r--r-- 1 root root  4921 юли 10 00:39 gdbusnameowning.h
+-rw-r--r-- 1 root root  4565 юли 10 00:39 gdbusnamewatching.h
+-rw-r--r-- 1 root root  2986 юли 10 00:39 gdbusobject.h
+-rw-r--r-- 1 root root  9659 юли 10 00:39 gdbusobjectmanagerclient.h
+-rw-r--r-- 1 root root  4518 юли 10 00:39 gdbusobjectmanager.h
+-rw-r--r-- 1 root root  3983 юли 10 00:39 gdbusobjectmanagerserver.h
+-rw-r--r-- 1 root root  2519 юли 10 00:39 gdbusobjectproxy.h
+-rw-r--r-- 1 root root  3831 юли 10 00:39 gdbusobjectskeleton.h
+-rw-r--r-- 1 root root 11992 юли 10 00:39 gdbusproxy.h
+-rw-r--r-- 1 root root  2575 юли 10 00:39 gdbusserver.h
+-rw-r--r-- 1 root root  2133 юли 10 00:39 gdbusutils.h
+-rw-r--r-- 1 root root  2073 юли 10 00:39 gdebugcontrollerdbus.h
+-rw-r--r-- 1 root root  2500 юли 10 00:39 gdebugcontroller.h
+-rw-r--r-- 1 root root 14521 юли 10 00:39 gdrive.h
+-rw-r--r-- 1 root root  3239 юли 10 00:39 gdtlsclientconnection.h
+-rw-r--r-- 1 root root 12607 юли 10 00:39 gdtlsconnection.h
+-rw-r--r-- 1 root root  2341 юли 10 00:39 gdtlsserverconnection.h
+-rw-r--r-- 1 root root  2746 юли 10 00:39 gemblemedicon.h
+-rw-r--r-- 1 root root  2151 юли 10 00:39 gemblem.h
+-rw-r--r-- 1 root root  2843 юли 10 00:39 gfileattribute.h
+-rw-r--r-- 1 root root  6365 юли 10 00:39 gfileenumerator.h
+-rw-r--r-- 1 root root 86021 юли 10 00:39 gfile.h
+-rw-r--r-- 1 root root  1922 юли 10 00:39 gfileicon.h
+-rw-r--r-- 1 root root 52958 юли 10 00:39 gfileinfo.h
+-rw-r--r-- 1 root root  4516 юли 10 00:39 gfileinputstream.h
+-rw-r--r-- 1 root root  4895 юли 10 00:39 gfileiostream.h
+-rw-r--r-- 1 root root  3261 юли 10 00:39 gfilemonitor.h
+-rw-r--r-- 1 root root  3026 юли 10 00:39 gfilenamecompleter.h
+-rw-r--r-- 1 root root  5180 юли 10 00:39 gfileoutputstream.h
+-rw-r--r-- 1 root root  2769 юли 10 00:39 gfilterinputstream.h
+-rw-r--r-- 1 root root  2810 юли 10 00:39 gfilteroutputstream.h
+-rw-r--r-- 1 root root  4271 юли 10 00:39 gicon.h
+-rw-r--r-- 1 root root  4557 юли 10 00:39 ginetaddress.h
+-rw-r--r-- 1 root root  3158 юли 10 00:39 ginetaddressmask.h
+-rw-r--r-- 1 root root  3153 юли 10 00:39 ginetsocketaddress.h
+-rw-r--r-- 1 root root  2936 юли 10 00:39 ginitable.h
+-rw-r--r-- 1 root root  9142 юли 10 00:39 ginputstream.h
+-rw-r--r-- 1 root root  9168 юли 10 00:39 gio-autocleanups.h
+-rw-r--r-- 1 root root 84977 юли 10 00:39 gioenums.h
+-rw-r--r-- 1 root root 13750 юли 10 00:39 gioenumtypes.h
+-rw-r--r-- 1 root root  1720 юли 10 00:39 gioerror.h
+-rw-r--r-- 1 root root  5943 юли 10 00:39 gio.h
+-rw-r--r-- 1 root root  8205 юли 10 00:39 giomodule.h
+-rw-r--r-- 1 root root  2044 юли 10 00:39 gioscheduler.h
+-rw-r--r-- 1 root root  4835 юли 10 00:39 giostream.h
+-rw-r--r-- 1 root root 23214 юли 10 00:39 giotypes.h
+-rw-r--r-- 1 root root 45622 юли 10 00:39 gio-visibility.h
+-rw-r--r-- 1 root root  2619 юли 10 00:39 glistmodel.h
+-rw-r--r-- 1 root root  4731 юли 10 00:39 gliststore.h
+-rw-r--r-- 1 root root  3612 юли 10 00:39 gloadableicon.h
+-rw-r--r-- 1 root root  3385 юли 10 00:39 gmemoryinputstream.h
+-rw-r--r-- 1 root root  2187 юли 10 00:39 gmemorymonitor.h
+-rw-r--r-- 1 root root  3880 юли 10 00:39 gmemoryoutputstream.h
+-rw-r--r-- 1 root root  1980 юли 10 00:39 gmenuexporter.h
+-rw-r--r-- 1 root root  8954 юли 10 00:39 gmenu.h
+-rw-r--r-- 1 root root 14364 юли 10 00:39 gmenumodel.h
+-rw-r--r-- 1 root root 15812 юли 10 00:39 gmount.h
+-rw-r--r-- 1 root root  6621 юли 10 00:39 gmountoperation.h
+-rw-r--r-- 1 root root  2583 юли 10 00:39 gnativesocketaddress.h
+-rw-r--r-- 1 root root  2318 юли 10 00:39 gnativevolumemonitor.h
+-rw-r--r-- 1 root root  2997 юли 10 00:39 gnetworkaddress.h
+-rw-r--r-- 1 root root  2092 юли 10 00:39 gnetworking.h
+-rw-r--r-- 1 root root  4280 юли 10 00:39 gnetworkmonitor.h
+-rw-r--r-- 1 root root  2797 юли 10 00:39 gnetworkservice.h
+-rw-r--r-- 1 root root  5158 юли 10 00:39 gnotification.h
+-rw-r--r-- 1 root root 15543 юли 10 00:39 goutputstream.h
+-rw-r--r-- 1 root root  5900 юли 10 00:39 gpermission.h
+-rw-r--r-- 1 root root  3746 юли 10 00:39 gpollableinputstream.h
+-rw-r--r-- 1 root root  4832 юли 10 00:39 gpollableoutputstream.h
+-rw-r--r-- 1 root root  2178 юли 10 00:39 gpollableutils.h
+-rw-r--r-- 1 root root  2348 юли 10 00:39 gpowerprofilemonitor.h
+-rw-r--r-- 1 root root  2041 юли 10 00:39 gpropertyaction.h
+-rw-r--r-- 1 root root  2766 юли 10 00:39 gproxyaddressenumerator.h
+-rw-r--r-- 1 root root  3206 юли 10 00:39 gproxyaddress.h
+-rw-r--r-- 1 root root  4014 юли 10 00:39 gproxy.h
+-rw-r--r-- 1 root root  3436 юли 10 00:39 gproxyresolver.h
+-rw-r--r-- 1 root root  3681 юли 10 00:39 gremoteactiongroup.h
+-rw-r--r-- 1 root root 17196 юли 10 00:39 gresolver.h
+-rw-r--r-- 1 root root  4681 юли 10 00:39 gresource.h
+-rw-r--r-- 1 root root  3256 юли 10 00:39 gseekable.h
+-rw-r--r-- 1 root root  8457 юли 10 00:39 gsettingsbackend.h
+-rw-r--r-- 1 root root 21625 юли 10 00:39 gsettings.h
+-rw-r--r-- 1 root root  5988 юли 10 00:39 gsettingsschema.h
+-rw-r--r-- 1 root root  4235 юли 10 00:39 gsimpleactiongroup.h
+-rw-r--r-- 1 root root  2958 юли 10 00:39 gsimpleaction.h
+-rw-r--r-- 1 root root  7752 юли 10 00:39 gsimpleasyncresult.h
+-rw-r--r-- 1 root root  1769 юли 10 00:39 gsimpleiostream.h
+-rw-r--r-- 1 root root  1733 юли 10 00:39 gsimplepermission.h
+-rw-r--r-- 1 root root  3468 юли 10 00:39 gsimpleproxyresolver.h
+-rw-r--r-- 1 root root  3816 юли 10 00:39 gsocketaddressenumerator.h
+-rw-r--r-- 1 root root  3130 юли 10 00:39 gsocketaddress.h
+-rw-r--r-- 1 root root 11229 юли 10 00:39 gsocketclient.h
+-rw-r--r-- 1 root root  2828 юли 10 00:39 gsocketconnectable.h
+-rw-r--r-- 1 root root  5094 юли 10 00:39 gsocketconnection.h
+-rw-r--r-- 1 root root  4929 юли 10 00:39 gsocketcontrolmessage.h
+-rw-r--r-- 1 root root 17221 юли 10 00:39 gsocket.h
+-rw-r--r-- 1 root root  7715 юли 10 00:39 gsocketlistener.h
+-rw-r--r-- 1 root root  3663 юли 10 00:39 gsocketservice.h
+-rw-r--r-- 1 root root  1975 юли 10 00:39 gsrvtarget.h
+-rw-r--r-- 1 root root  8628 юли 10 00:39 gsubprocess.h
+-rw-r--r-- 1 root root  6559 юли 10 00:39 gsubprocesslauncher.h
+-rw-r--r-- 1 root root  9994 юли 10 00:39 gtask.h
+-rw-r--r-- 1 root root  3003 юли 10 00:39 gtcpconnection.h
+-rw-r--r-- 1 root root  3019 юли 10 00:39 gtcpwrapperconnection.h
+-rw-r--r-- 1 root root  2343 юли 10 00:39 gtestdbus.h
+-rw-r--r-- 1 root root  2608 юли 10 00:39 gthemedicon.h
+-rw-r--r-- 1 root root  3712 юли 10 00:39 gthreadedsocketservice.h
+-rw-r--r-- 1 root root  4624 юли 10 00:39 gtlsbackend.h
+-rw-r--r-- 1 root root  5206 юли 10 00:39 gtlscertificate.h
+-rw-r--r-- 1 root root  3726 юли 10 00:39 gtlsclientconnection.h
+-rw-r--r-- 1 root root  8626 юли 10 00:39 gtlsconnection.h
+-rw-r--r-- 1 root root 17306 юли 10 00:39 gtlsdatabase.h
+-rw-r--r-- 1 root root  1956 юли 10 00:39 gtlsfiledatabase.h
+-rw-r--r-- 1 root root  8373 юли 10 00:39 gtlsinteraction.h
+-rw-r--r-- 1 root root  4856 юли 10 00:39 gtlspassword.h
+-rw-r--r-- 1 root root  2246 юли 10 00:39 gtlsserverconnection.h
+-rw-r--r-- 1 root root  5801 юли 10 00:39 gunixconnection.h
+-rw-r--r-- 1 root root  3060 юли 10 00:39 gunixcredentialsmessage.h
+-rw-r--r-- 1 root root  4286 юли 10 00:39 gunixfdlist.h
+-rw-r--r-- 1 root root  3464 юли 10 00:39 gunixsocketaddress.h
+-rw-r--r-- 1 root root  6601 юли 10 00:39 gvfs.h
+-rw-r--r-- 1 root root 11768 юли 10 00:39 gvolume.h
+-rw-r--r-- 1 root root  5956 юли 10 00:39 gvolumemonitor.h
+-rw-r--r-- 1 root root  2395 юли 10 00:39 gzlibcompressor.h
+-rw-r--r-- 1 root root  2258 юли 10 00:39 gzlibdecompressor.h
+
+/opt/audacious-4.4/include/glib-2.0/girepository:
+общо 184
+-rw-r--r-- 1 root root  3320 юли 10 00:39 giarginfo.h
+-rw-r--r-- 1 root root  4090 юли 10 00:39 gibaseinfo.h
+-rw-r--r-- 1 root root  4666 юли 10 00:39 gicallableinfo.h
+-rw-r--r-- 1 root root  1904 юли 10 00:39 gicallbackinfo.h
+-rw-r--r-- 1 root root  2332 юли 10 00:39 giconstantinfo.h
+-rw-r--r-- 1 root root  2563 юли 10 00:39 gienuminfo.h
+-rw-r--r-- 1 root root  2801 юли 10 00:39 gifieldinfo.h
+-rw-r--r-- 1 root root  1871 юли 10 00:39 giflagsinfo.h
+-rw-r--r-- 1 root root  3797 юли 10 00:39 gifunctioninfo.h
+-rw-r--r-- 1 root root  4267 юли 10 00:39 giinterfaceinfo.h
+-rw-r--r-- 1 root root  7413 юли 10 00:39 giobjectinfo.h
+-rw-r--r-- 1 root root  2393 юли 10 00:39 gipropertyinfo.h
+-rw-r--r-- 1 root root  2514 юли 10 00:39 giregisteredtypeinfo.h
+-rw-r--r-- 1 root root  2655 юли 10 00:39 girepository-autocleanups.h
+-rw-r--r-- 1 root root  9687 юли 10 00:39 girepository.h
+-rw-r--r-- 1 root root  4850 юли 10 00:39 girffi.h
+-rw-r--r-- 1 root root  2213 юли 10 00:39 gisignalinfo.h
+-rw-r--r-- 1 root root  3294 юли 10 00:39 gistructinfo.h
+-rw-r--r-- 1 root root  4850 юли 10 00:39 gitypeinfo.h
+-rw-r--r-- 1 root root  2050 юли 10 00:39 gitypelib.h
+-rw-r--r-- 1 root root 12951 юли 10 00:39 gitypes.h
+-rw-r--r-- 1 root root  3556 юли 10 00:39 giunioninfo.h
+-rw-r--r-- 1 root root  1928 юли 10 00:39 giunresolvedinfo.h
+-rw-r--r-- 1 root root  2008 юли 10 00:39 givalueinfo.h
+-rw-r--r-- 1 root root  3097 юли 10 00:39 givfuncinfo.h
+-rw-r--r-- 1 root root 44662 юли 10 00:39 gi-visibility.h
+
+/opt/audacious-4.4/include/glib-2.0/glib:
+общо 972
+drwxr-xr-x 2 root root   109 юли 10 00:39 deprecated/
+-rw-r--r-- 1 root root  5435 юли 10 00:39 galloca.h
+-rw-r--r-- 1 root root 13835 юли 10 00:39 garray.h
+-rw-r--r-- 1 root root  5775 юли 10 00:39 gasyncqueue.h
+-rw-r--r-- 1 root root 35198 юли 10 00:39 gatomic.h
+-rw-r--r-- 1 root root  2842 юли 10 00:39 gbacktrace.h
+-rw-r--r-- 1 root root  2372 юли 10 00:39 gbase64.h
+-rw-r--r-- 1 root root  4382 юли 10 00:39 gbitlock.h
+-rw-r--r-- 1 root root 14871 юли 10 00:39 gbookmarkfile.h
+-rw-r--r-- 1 root root  3710 юли 10 00:39 gbytes.h
+-rw-r--r-- 1 root root  1627 юли 10 00:39 gcharset.h
+-rw-r--r-- 1 root root  3709 юли 10 00:39 gchecksum.h
+-rw-r--r-- 1 root root  5972 юли 10 00:39 gconvert.h
+-rw-r--r-- 1 root root  6522 юли 10 00:39 gdataset.h
+-rw-r--r-- 1 root root 12159 юли 10 00:39 gdate.h
+-rw-r--r-- 1 root root 14446 юли 10 00:39 gdatetime.h
+-rw-r--r-- 1 root root  1871 юли 10 00:39 gdir.h
+-rw-r--r-- 1 root root  2413 юли 10 00:39 genviron.h
+-rw-r--r-- 1 root root 11385 юли 10 00:39 gerror.h
+-rw-r--r-- 1 root root  7903 юли 10 00:39 gfileutils.h
+-rw-r--r-- 1 root root  2473 юли 10 00:39 ggettext.h
+-rw-r--r-- 1 root root  8613 юли 10 00:39 ghash.h
+-rw-r--r-- 1 root root  3341 юли 10 00:39 ghmac.h
+-rw-r--r-- 1 root root  6407 юли 10 00:39 ghook.h
+-rw-r--r-- 1 root root  1505 юли 10 00:39 ghostutils.h
+-rw-r--r-- 1 root root  1216 юли 10 00:39 gi18n.h
+-rw-r--r-- 1 root root  1419 юли 10 00:39 gi18n-lib.h
+-rw-r--r-- 1 root root 14061 юли 10 00:39 giochannel.h
+-rw-r--r-- 1 root root 14962 юли 10 00:39 gkeyfile.h
+-rw-r--r-- 1 root root  5125 юли 10 00:39 glib-autocleanups.h
+-rw-r--r-- 1 root root  1706 юли 10 00:39 glib-typeof.h
+-rw-r--r-- 1 root root 46582 юли 10 00:39 glib-visibility.h
+-rw-r--r-- 1 root root  6979 юли 10 00:39 glist.h
+-rw-r--r-- 1 root root 52743 юли 10 00:39 gmacros.h
+-rw-r--r-- 1 root root 34169 юли 10 00:39 gmain.h
+-rw-r--r-- 1 root root  2035 юли 10 00:39 gmappedfile.h
+-rw-r--r-- 1 root root 11051 юли 10 00:39 gmarkup.h
+-rw-r--r-- 1 root root 15943 юли 10 00:39 gmem.h
+-rw-r--r-- 1 root root 28006 юли 10 00:39 gmessages.h
+-rw-r--r-- 1 root root  8749 юли 10 00:39 gnode.h
+-rw-r--r-- 1 root root 16635 юли 10 00:39 goption.h
+-rw-r--r-- 1 root root  2467 юли 10 00:39 gpathbuf.h
+-rw-r--r-- 1 root root  2359 юли 10 00:39 gpattern.h
+-rw-r--r-- 1 root root  4174 юли 10 00:39 gpoll.h
+-rw-r--r-- 1 root root  1743 юли 10 00:39 gprimes.h
+-rw-r--r-- 1 root root  2033 юли 10 00:39 gprintf.h
+-rw-r--r-- 1 root root  1836 юли 10 00:39 gqsort.h
+-rw-r--r-- 1 root root  2737 юли 10 00:39 gquark.h
+-rw-r--r-- 1 root root  7799 юли 10 00:39 gqueue.h
+-rw-r--r-- 1 root root  3230 юли 10 00:39 grand.h
+-rw-r--r-- 1 root root  3856 юли 10 00:39 grcbox.h
+-rw-r--r-- 1 root root  5196 юли 10 00:39 grefcount.h
+-rw-r--r-- 1 root root  1917 юли 10 00:39 grefstring.h
+-rw-r--r-- 1 root root 28664 юли 10 00:39 gregex.h
+-rw-r--r-- 1 root root  8910 юли 10 00:39 gscanner.h
+-rw-r--r-- 1 root root  8860 юли 10 00:39 gsequence.h
+-rw-r--r-- 1 root root  1801 юли 10 00:39 gshell.h
+-rw-r--r-- 1 root root  4664 юли 10 00:39 gslice.h
+-rw-r--r-- 1 root root  6600 юли 10 00:39 gslist.h
+-rw-r--r-- 1 root root 14250 юли 10 00:39 gspawn.h
+-rw-r--r-- 1 root root  6301 юли 10 00:39 gstdio.h
+-rw-r--r-- 1 root root 19032 юли 10 00:39 gstrfuncs.h
+-rw-r--r-- 1 root root  2179 юли 10 00:39 gstringchunk.h
+-rw-r--r-- 1 root root 11729 юли 10 00:39 gstring.h
+-rw-r--r-- 1 root root  2007 юли 10 00:39 gstrvbuilder.h
+-rw-r--r-- 1 root root 40563 юли 10 00:39 gtestutils.h
+-rw-r--r-- 1 root root 26423 юли 10 00:39 gthread.h
+-rw-r--r-- 1 root root  4357 юли 10 00:39 gthreadpool.h
+-rw-r--r-- 1 root root  2625 юли 10 00:39 gtimer.h
+-rw-r--r-- 1 root root  3954 юли 10 00:39 gtimezone.h
+-rw-r--r-- 1 root root  1955 юли 10 00:39 gtrashstack.h
+-rw-r--r-- 1 root root  6588 юли 10 00:39 gtree.h
+-rw-r--r-- 1 root root 20553 юли 10 00:39 gtypes.h
+-rw-r--r-- 1 root root 43204 юли 10 00:39 gunicode.h
+-rw-r--r-- 1 root root 16495 юли 10 00:39 guri.h
+-rw-r--r-- 1 root root 14245 юли 10 00:39 gutils.h
+-rw-r--r-- 1 root root  1291 юли 10 00:39 guuid.h
+-rw-r--r-- 1 root root 30690 юли 10 00:39 gvariant.h
+-rw-r--r-- 1 root root 13040 юли 10 00:39 gvarianttype.h
+-rw-r--r-- 1 root root  2030 юли 10 00:39 gversion.h
+-rw-r--r-- 1 root root 13682 юли 10 00:39 gversionmacros.h
+
+/opt/audacious-4.4/include/glib-2.0/glib/deprecated:
+общо 36
+-rw-r--r-- 1 root root  3256 юли 10 00:39 gallocator.h
+-rw-r--r-- 1 root root  3036 юли 10 00:39 gcache.h
+-rw-r--r-- 1 root root  2976 юли 10 00:39 gcompletion.h
+-rw-r--r-- 1 root root  4442 юли 10 00:39 gmain.h
+-rw-r--r-- 1 root root  2976 юли 10 00:39 grel.h
+-rw-r--r-- 1 root root 11277 юли 10 00:39 gthread.h
+
+/opt/audacious-4.4/include/glib-2.0/gmodule:
+общо 52
+-rw-r--r-- 1 root root 49462 юли 10 00:39 gmodule-visibility.h
+
+/opt/audacious-4.4/include/glib-2.0/gobject:
+общо 436
+-rw-r--r-- 1 root root   3934 юли 10 00:39 gbindinggroup.h
+-rw-r--r-- 1 root root   6558 юли 10 00:39 gbinding.h
+-rw-r--r-- 1 root root   4047 юли 10 00:39 gboxed.h
+-rw-r--r-- 1 root root  10853 юли 10 00:39 gclosure.h
+-rw-r--r-- 1 root root  11657 юли 10 00:39 genums.h
+-rw-r--r-- 1 root root   1031 юли 10 00:39 glib-enumtypes.h
+-rw-r--r-- 1 root root  10602 юли 10 00:39 glib-types.h
+-rw-r--r-- 1 root root  21973 юли 10 00:39 gmarshal.h
+-rw-r--r-- 1 root root   1484 юли 10 00:39 gobject-autocleanups.h
+-rw-r--r-- 1 root root  34809 юли 10 00:39 gobject.h
+-rw-r--r-- 1 root root   5595 юли 10 00:39 gobjectnotifyqueue.c
+-rw-r--r-- 1 root root  49462 юли 10 00:39 gobject-visibility.h
+-rw-r--r-- 1 root root  17017 юли 10 00:39 gparam.h
+-rw-r--r-- 1 root root  34179 юли 10 00:39 gparamspecs.h
+-rw-r--r-- 1 root root   4297 юли 10 00:39 gsignalgroup.h
+-rw-r--r-- 1 root root  26475 юли 10 00:39 gsignal.h
+-rw-r--r-- 1 root root   1330 юли 10 00:39 gsourceclosure.h
+-rw-r--r-- 1 root root 103619 юли 10 00:39 gtype.h
+-rw-r--r-- 1 root root  10797 юли 10 00:39 gtypemodule.h
+-rw-r--r-- 1 root root   4893 юли 10 00:39 gtypeplugin.h
+-rw-r--r-- 1 root root   3136 юли 10 00:39 gvaluearray.h
+-rw-r--r-- 1 root root  10338 юли 10 00:39 gvaluecollector.h
+-rw-r--r-- 1 root root   6159 юли 10 00:39 gvalue.h
+-rw-r--r-- 1 root root  10509 юли 10 00:39 gvaluetypes.h
+
+/opt/audacious-4.4/include/gtk-3.0:
+общо 16
+drwxr-xr-x 6 root root 4096 юли 10 00:39 gdk/
+drwxr-xr-x 4 root root 8192 юли 10 00:39 gtk/
+drwxr-xr-x 3 root root   17 юли 10 00:39 unix-print/
+
+/opt/audacious-4.4/include/gtk-3.0/gdk:
+общо 520
+drwxr-xr-x 2 root root   143 юли 10 00:39 broadway/
+drwxr-xr-x 2 root root    24 юли 10 00:39 deprecated/
+-rw-r--r-- 1 root root  2995 юли 10 00:39 gdkapplaunchcontext.h
+-rw-r--r-- 1 root root  1892 юли 10 00:39 gdk-autocleanup.h
+-rw-r--r-- 1 root root  1426 юли 10 00:39 gdkbroadway.h
+-rw-r--r-- 1 root root  3883 юли 10 00:39 gdkcairo.h
+-rw-r--r-- 1 root root   392 юли 10 00:39 gdkconfig.h
+-rw-r--r-- 1 root root  8523 юли 10 00:39 gdkcursor.h
+-rw-r--r-- 1 root root 10797 юли 10 00:39 gdkdevice.h
+-rw-r--r-- 1 root root  1863 юли 10 00:39 gdkdevicemanager.h
+-rw-r--r-- 1 root root  2522 юли 10 00:39 gdkdevicepad.h
+-rw-r--r-- 1 root root  2614 юли 10 00:39 gdkdevicetool.h
+-rw-r--r-- 1 root root  8451 юли 10 00:39 gdkdisplay.h
+-rw-r--r-- 1 root root  2430 юли 10 00:39 gdkdisplaymanager.h
+-rw-r--r-- 1 root root  8662 юли 10 00:39 gdkdnd.h
+-rw-r--r-- 1 root root  1955 юли 10 00:39 gdkdrawingcontext.h
+-rw-r--r-- 1 root root  7404 юли 10 00:39 gdkenumtypes.h
+-rw-r--r-- 1 root root 55357 юли 10 00:39 gdkevents.h
+-rw-r--r-- 1 root root  4926 юли 10 00:39 gdkframeclock.h
+-rw-r--r-- 1 root root  2018 юли 10 00:39 gdkframetimings.h
+-rw-r--r-- 1 root root  4310 юли 10 00:39 gdkglcontext.h
+-rw-r--r-- 1 root root  2258 юли 10 00:39 gdk.h
+-rw-r--r-- 1 root root  6350 юли 10 00:39 gdkkeys.h
+-rw-r--r-- 1 root root 73468 юли 10 00:39 gdkkeysyms-compat.h
+-rw-r--r-- 1 root root 82828 юли 10 00:39 gdkkeysyms.h
+-rw-r--r-- 1 root root  4987 юли 10 00:39 gdkmain.h
+-rw-r--r-- 1 root root  3622 юли 10 00:39 gdkmonitor.h
+-rw-r--r-- 1 root root  2487 юли 10 00:39 gdkpango.h
+-rw-r--r-- 1 root root  2064 юли 10 00:39 gdkpixbuf.h
+-rw-r--r-- 1 root root  1494 юли 10 00:39 gdkprivate.h
+-rw-r--r-- 1 root root  3715 юли 10 00:39 gdkproperty.h
+-rw-r--r-- 1 root root  2035 юли 10 00:39 gdkrectangle.h
+-rw-r--r-- 1 root root  2055 юли 10 00:39 gdkrgba.h
+-rw-r--r-- 1 root root  5618 юли 10 00:39 gdkscreen.h
+-rw-r--r-- 1 root root  4378 юли 10 00:39 gdkseat.h
+-rw-r--r-- 1 root root  5660 юли 10 00:39 gdkselection.h
+-rw-r--r-- 1 root root  2307 юли 10 00:39 gdktestutils.h
+-rw-r--r-- 1 root root  4398 юли 10 00:39 gdkthreads.h
+-rw-r--r-- 1 root root 23078 юли 10 00:39 gdktypes.h
+-rw-r--r-- 1 root root 13462 юли 10 00:39 gdkversionmacros.h
+-rw-r--r-- 1 root root  5666 юли 10 00:39 gdkvisual.h
+-rw-r--r-- 1 root root  1459 юли 10 00:39 gdkwayland.h
+-rw-r--r-- 1 root root 47003 юли 10 00:39 gdkwindow.h
+-rw-r--r-- 1 root root  1996 юли 10 00:39 gdkx.h
+drwxr-xr-x 2 root root   170 юли 10 00:39 wayland/
+drwxr-xr-x 2 root root  4096 юли 10 00:39 x11/
+
+/opt/audacious-4.4/include/gtk-3.0/gdk/broadway:
+общо 20
+-rw-r--r-- 1 root root 2287 юли 10 00:39 gdkbroadwaycursor.h
+-rw-r--r-- 1 root root 2281 юли 10 00:39 gdkbroadwaydisplay.h
+-rw-r--r-- 1 root root 1641 юли 10 00:39 gdkbroadwaymonitor.h
+-rw-r--r-- 1 root root 1871 юли 10 00:39 gdkbroadwayvisual.h
+-rw-r--r-- 1 root root 2239 юли 10 00:39 gdkbroadwaywindow.h
+
+/opt/audacious-4.4/include/gtk-3.0/gdk/deprecated:
+общо 4
+-rw-r--r-- 1 root root 2765 юли 10 00:39 gdkcolor.h
+
+/opt/audacious-4.4/include/gtk-3.0/gdk/wayland:
+общо 28
+-rw-r--r-- 1 root root 2852 юли 10 00:39 gdkwaylanddevice.h
+-rw-r--r-- 1 root root 3008 юли 10 00:39 gdkwaylanddisplay.h
+-rw-r--r-- 1 root root 1661 юли 10 00:39 gdkwaylandglcontext.h
+-rw-r--r-- 1 root root 1726 юли 10 00:39 gdkwaylandmonitor.h
+-rw-r--r-- 1 root root 1929 юли 10 00:39 gdkwaylandselection.h
+-rw-r--r-- 1 root root 4320 юли 10 00:39 gdkwaylandwindow.h
+
+/opt/audacious-4.4/include/gtk-3.0/gdk/x11:
+общо 92
+-rw-r--r-- 1 root root 2138 юли 10 00:39 gdkx11applaunchcontext.h
+-rw-r--r-- 1 root root 2803 юли 10 00:39 gdkx11cursor.h
+-rw-r--r-- 1 root root 1755 юли 10 00:39 gdkx11device-core.h
+-rw-r--r-- 1 root root 1081 юли 10 00:39 gdkx11device.h
+-rw-r--r-- 1 root root 1933 юли 10 00:39 gdkx11devicemanager-core.h
+-rw-r--r-- 1 root root 1251 юли 10 00:39 gdkx11devicemanager.h
+-rw-r--r-- 1 root root 1910 юли 10 00:39 gdkx11devicemanager-xi2.h
+-rw-r--r-- 1 root root 1731 юли 10 00:39 gdkx11device-xi2.h
+-rw-r--r-- 1 root root 4413 юли 10 00:39 gdkx11display.h
+-rw-r--r-- 1 root root 2084 юли 10 00:39 gdkx11displaymanager.h
+-rw-r--r-- 1 root root 1979 юли 10 00:39 gdkx11dnd.h
+-rw-r--r-- 1 root root 1777 юли 10 00:39 gdkx11glcontext.h
+-rw-r--r-- 1 root root 2133 юли 10 00:39 gdkx11keys.h
+-rw-r--r-- 1 root root 1646 юли 10 00:39 gdkx11monitor.h
+-rw-r--r-- 1 root root 2500 юли 10 00:39 gdkx11property.h
+-rw-r--r-- 1 root root 3731 юли 10 00:39 gdkx11screen.h
+-rw-r--r-- 1 root root 2955 юли 10 00:39 gdkx11selection.h
+-rw-r--r-- 1 root root 2440 юли 10 00:39 gdkx11utils.h
+-rw-r--r-- 1 root root 2509 юли 10 00:39 gdkx11visual.h
+-rw-r--r-- 1 root root 4677 юли 10 00:39 gdkx11window.h
+-rw-r--r-- 1 root root 1827 юли 10 00:39 gdkx-autocleanups.h
+
+/opt/audacious-4.4/include/gtk-3.0/gtk:
+общо 1816
+drwxr-xr-x 2 root root  4096 юли 10 00:39 a11y/
+drwxr-xr-x 2 root root  4096 юли 10 00:39 deprecated/
+-rw-r--r-- 1 root root  3570 юли 10 00:39 gtk-a11y.h
+-rw-r--r-- 1 root root 10179 юли 10 00:39 gtkaboutdialog.h
+-rw-r--r-- 1 root root  8707 юли 10 00:39 gtkaccelgroup.h
+-rw-r--r-- 1 root root  4247 юли 10 00:39 gtkaccellabel.h
+-rw-r--r-- 1 root root  3992 юли 10 00:39 gtkaccelmap.h
+-rw-r--r-- 1 root root  2812 юли 10 00:39 gtkaccessible.h
+-rw-r--r-- 1 root root  3730 юли 10 00:39 gtkactionable.h
+-rw-r--r-- 1 root root  2913 юли 10 00:39 gtkactionbar.h
+-rw-r--r-- 1 root root  5997 юли 10 00:39 gtkadjustment.h
+-rw-r--r-- 1 root root  4470 юли 10 00:39 gtkappchooserbutton.h
+-rw-r--r-- 1 root root  3617 юли 10 00:39 gtkappchooserdialog.h
+-rw-r--r-- 1 root root  1777 юли 10 00:39 gtkappchooser.h
+-rw-r--r-- 1 root root  5384 юли 10 00:39 gtkappchooserwidget.h
+-rw-r--r-- 1 root root  7330 юли 10 00:39 gtkapplication.h
+-rw-r--r-- 1 root root  3525 юли 10 00:39 gtkapplicationwindow.h
+-rw-r--r-- 1 root root  3054 юли 10 00:39 gtkaspectframe.h
+-rw-r--r-- 1 root root 10946 юли 10 00:39 gtkassistant.h
+-rw-r--r-- 1 root root 12188 юли 10 00:39 gtk-autocleanups.h
+-rw-r--r-- 1 root root  4946 юли 10 00:39 gtkbbox.h
+-rw-r--r-- 1 root root  7039 юли 10 00:39 gtkbindings.h
+-rw-r--r-- 1 root root  2651 юли 10 00:39 gtkbin.h
+-rw-r--r-- 1 root root  2137 юли 10 00:39 gtkborder.h
+-rw-r--r-- 1 root root  5221 юли 10 00:39 gtkbox.h
+-rw-r--r-- 1 root root  8167 юли 10 00:39 gtkbuildable.h
+-rw-r--r-- 1 root root 10511 юли 10 00:39 gtkbuilder.h
+-rw-r--r-- 1 root root  6751 юли 10 00:39 gtkbutton.h
+-rw-r--r-- 1 root root  6812 юли 10 00:39 gtkcalendar.h
+-rw-r--r-- 1 root root  3652 юли 10 00:39 gtkcellareabox.h
+-rw-r--r-- 1 root root  7354 юли 10 00:39 gtkcellareacontext.h
+-rw-r--r-- 1 root root 34828 юли 10 00:39 gtkcellarea.h
+-rw-r--r-- 1 root root  2757 юли 10 00:39 gtkcelleditable.h
+-rw-r--r-- 1 root root  7767 юли 10 00:39 gtkcelllayout.h
+-rw-r--r-- 1 root root  3483 юли 10 00:39 gtkcellrendereraccel.h
+-rw-r--r-- 1 root root  2550 юли 10 00:39 gtkcellrenderercombo.h
+-rw-r--r-- 1 root root 17871 юли 10 00:39 gtkcellrenderer.h
+-rw-r--r-- 1 root root  2596 юли 10 00:39 gtkcellrendererpixbuf.h
+-rw-r--r-- 1 root root  2918 юли 10 00:39 gtkcellrendererprogress.h
+-rw-r--r-- 1 root root  2461 юли 10 00:39 gtkcellrendererspin.h
+-rw-r--r-- 1 root root  2744 юли 10 00:39 gtkcellrendererspinner.h
+-rw-r--r-- 1 root root  2828 юли 10 00:39 gtkcellrenderertext.h
+-rw-r--r-- 1 root root  3652 юли 10 00:39 gtkcellrenderertoggle.h
+-rw-r--r-- 1 root root  4960 юли 10 00:39 gtkcellview.h
+-rw-r--r-- 1 root root  2963 юли 10 00:39 gtkcheckbutton.h
+-rw-r--r-- 1 root root  4152 юли 10 00:39 gtkcheckmenuitem.h
+-rw-r--r-- 1 root root 12479 юли 10 00:39 gtkclipboard.h
+-rw-r--r-- 1 root root  4612 юли 10 00:39 gtkcolorbutton.h
+-rw-r--r-- 1 root root  2627 юли 10 00:39 gtkcolorchooserdialog.h
+-rw-r--r-- 1 root root  3353 юли 10 00:39 gtkcolorchooser.h
+-rw-r--r-- 1 root root  2762 юли 10 00:39 gtkcolorchooserwidget.h
+-rw-r--r-- 1 root root  1762 юли 10 00:39 gtkcolorutils.h
+-rw-r--r-- 1 root root  8511 юли 10 00:39 gtkcombobox.h
+-rw-r--r-- 1 root root  4419 юли 10 00:39 gtkcomboboxtext.h
+-rw-r--r-- 1 root root 11423 юли 10 00:39 gtkcontainer.h
+-rw-r--r-- 1 root root  4570 юли 10 00:39 gtkcssprovider.h
+-rw-r--r-- 1 root root  3876 юли 10 00:39 gtkcsssection.h
+-rw-r--r-- 1 root root  2704 юли 10 00:39 gtkdebug.h
+-rw-r--r-- 1 root root  7808 юли 10 00:39 gtkdialog.h
+-rw-r--r-- 1 root root  4117 юли 10 00:39 gtkdnd.h
+-rw-r--r-- 1 root root  4412 юли 10 00:39 gtkdragdest.h
+-rw-r--r-- 1 root root  2779 юли 10 00:39 gtkdragsource.h
+-rw-r--r-- 1 root root  2516 юли 10 00:39 gtkdrawingarea.h
+-rw-r--r-- 1 root root  4835 юли 10 00:39 gtkeditable.h
+-rw-r--r-- 1 root root  6320 юли 10 00:39 gtkentrybuffer.h
+-rw-r--r-- 1 root root  9523 юли 10 00:39 gtkentrycompletion.h
+-rw-r--r-- 1 root root 18620 юли 10 00:39 gtkentry.h
+-rw-r--r-- 1 root root 36978 юли 10 00:39 gtkenums.h
+-rw-r--r-- 1 root root  3116 юли 10 00:39 gtkeventbox.h
+-rw-r--r-- 1 root root  2772 юли 10 00:39 gtkeventcontroller.h
+-rw-r--r-- 1 root root  2860 юли 10 00:39 gtkeventcontrollerkey.h
+-rw-r--r-- 1 root root  2241 юли 10 00:39 gtkeventcontrollermotion.h
+-rw-r--r-- 1 root root  3750 юли 10 00:39 gtkeventcontrollerscroll.h
+-rw-r--r-- 1 root root  4985 юли 10 00:39 gtkexpander.h
+-rw-r--r-- 1 root root  3944 юли 10 00:39 gtkfilechooserbutton.h
+-rw-r--r-- 1 root root  2782 юли 10 00:39 gtkfilechooserdialog.h
+-rw-r--r-- 1 root root 13213 юли 10 00:39 gtkfilechooser.h
+-rw-r--r-- 1 root root  2392 юли 10 00:39 gtkfilechoosernative.h
+-rw-r--r-- 1 root root  2705 юли 10 00:39 gtkfilechooserwidget.h
+-rw-r--r-- 1 root root  4613 юли 10 00:39 gtkfilefilter.h
+-rw-r--r-- 1 root root  3141 юли 10 00:39 gtkfixed.h
+-rw-r--r-- 1 root root 11754 юли 10 00:39 gtkflowbox.h
+-rw-r--r-- 1 root root  4685 юли 10 00:39 gtkfontbutton.h
+-rw-r--r-- 1 root root  2768 юли 10 00:39 gtkfontchooserdialog.h
+-rw-r--r-- 1 root root  7387 юли 10 00:39 gtkfontchooser.h
+-rw-r--r-- 1 root root  2806 юли 10 00:39 gtkfontchooserwidget.h
+-rw-r--r-- 1 root root  3641 юли 10 00:39 gtkframe.h
+-rw-r--r-- 1 root root  2462 юли 10 00:39 gtkgesturedrag.h
+-rw-r--r-- 1 root root  4923 юли 10 00:39 gtkgesture.h
+-rw-r--r-- 1 root root  2131 юли 10 00:39 gtkgesturelongpress.h
+-rw-r--r-- 1 root root  2461 юли 10 00:39 gtkgesturemultipress.h
+-rw-r--r-- 1 root root  2335 юли 10 00:39 gtkgesturepan.h
+-rw-r--r-- 1 root root  2180 юли 10 00:39 gtkgesturerotate.h
+-rw-r--r-- 1 root root  3071 юли 10 00:39 gtkgesturesingle.h
+-rw-r--r-- 1 root root  2453 юли 10 00:39 gtkgesturestylus.h
+-rw-r--r-- 1 root root  2286 юли 10 00:39 gtkgestureswipe.h
+-rw-r--r-- 1 root root  2126 юли 10 00:39 gtkgesturezoom.h
+-rw-r--r-- 1 root root  5489 юли 10 00:39 gtkglarea.h
+-rw-r--r-- 1 root root  5828 юли 10 00:39 gtkgrid.h
+-rw-r--r-- 1 root root  9820 юли 10 00:39 gtk.h
+-rw-r--r-- 1 root root  4130 юли 10 00:39 gtkheaderbar.h
+-rw-r--r-- 1 root root 17261 юли 10 00:39 gtkicontheme.h
+-rw-r--r-- 1 root root 14988 юли 10 00:39 gtkiconview.h
+-rw-r--r-- 1 root root  7733 юли 10 00:39 gtkimage.h
+-rw-r--r-- 1 root root  5292 юли 10 00:39 gtkimcontext.h
+-rw-r--r-- 1 root root  1243 юли 10 00:39 gtkimcontextinfo.h
+-rw-r--r-- 1 root root  2868 юли 10 00:39 gtkimcontextsimple.h
+-rw-r--r-- 1 root root  1222 юли 10 00:39 gtkimmodule.h
+-rw-r--r-- 1 root root  2883 юли 10 00:39 gtkimmulticontext.h
+-rw-r--r-- 1 root root  5298 юли 10 00:39 gtkinfobar.h
+-rw-r--r-- 1 root root  2784 юли 10 00:39 gtkinvisible.h
+-rw-r--r-- 1 root root  9051 юли 10 00:39 gtklabel.h
+-rw-r--r-- 1 root root  4182 юли 10 00:39 gtklayout.h
+-rw-r--r-- 1 root root  4740 юли 10 00:39 gtklevelbar.h
+-rw-r--r-- 1 root root  3564 юли 10 00:39 gtklinkbutton.h
+-rw-r--r-- 1 root root 14290 юли 10 00:39 gtklistbox.h
+-rw-r--r-- 1 root root  5881 юли 10 00:39 gtkliststore.h
+-rw-r--r-- 1 root root  2579 юли 10 00:39 gtklockbutton.h
+-rw-r--r-- 1 root root  7241 юли 10 00:39 gtkmain.h
+-rw-r--r-- 1 root root  3272 юли 10 00:39 gtkmenubar.h
+-rw-r--r-- 1 root root  4033 юли 10 00:39 gtkmenubutton.h
+-rw-r--r-- 1 root root 11177 юли 10 00:39 gtkmenu.h
+-rw-r--r-- 1 root root  6679 юли 10 00:39 gtkmenuitem.h
+-rw-r--r-- 1 root root  5496 юли 10 00:39 gtkmenushell.h
+-rw-r--r-- 1 root root  3484 юли 10 00:39 gtkmenutoolbutton.h
+-rw-r--r-- 1 root root  5363 юли 10 00:39 gtkmessagedialog.h
+-rw-r--r-- 1 root root  1962 юли 10 00:39 gtkmodelbutton.h
+-rw-r--r-- 1 root root  1822 юли 10 00:39 gtkmodules.h
+-rw-r--r-- 1 root root  3442 юли 10 00:39 gtkmountoperation.h
+-rw-r--r-- 1 root root  2926 юли 10 00:39 gtknativedialog.h
+-rw-r--r-- 1 root root 11517 юли 10 00:39 gtknotebook.h
+-rw-r--r-- 1 root root  2623 юли 10 00:39 gtkoffscreenwindow.h
+-rw-r--r-- 1 root root  2330 юли 10 00:39 gtkorientable.h
+-rw-r--r-- 1 root root  3324 юли 10 00:39 gtkoverlay.h
+-rw-r--r-- 1 root root  3906 юли 10 00:39 gtkpadcontroller.h
+-rw-r--r-- 1 root root  5566 юли 10 00:39 gtkpagesetup.h
+-rw-r--r-- 1 root root  4417 юли 10 00:39 gtkpaned.h
+-rw-r--r-- 1 root root  5186 юли 10 00:39 gtkpapersize.h
+-rw-r--r-- 1 root root  8627 юли 10 00:39 gtkplacessidebar.h
+-rw-r--r-- 1 root root  3329 юли 10 00:39 gtkplug.h
+-rw-r--r-- 1 root root  4828 юли 10 00:39 gtkpopover.h
+-rw-r--r-- 1 root root  2188 юли 10 00:39 gtkpopovermenu.h
+-rw-r--r-- 1 root root  2935 юли 10 00:39 gtkprintcontext.h
+-rw-r--r-- 1 root root 15897 юли 10 00:39 gtkprintoperation.h
+-rw-r--r-- 1 root root  3375 юли 10 00:39 gtkprintoperationpreview.h
+-rw-r--r-- 1 root root 16089 юли 10 00:39 gtkprintsettings.h
+-rw-r--r-- 1 root root  4347 юли 10 00:39 gtkprogressbar.h
+-rw-r--r-- 1 root root  4145 юли 10 00:39 gtkradiobutton.h
+-rw-r--r-- 1 root root  4025 юли 10 00:39 gtkradiomenuitem.h
+-rw-r--r-- 1 root root  3302 юли 10 00:39 gtkradiotoolbutton.h
+-rw-r--r-- 1 root root  7883 юли 10 00:39 gtkrange.h
+-rw-r--r-- 1 root root  3082 юли 10 00:39 gtkrecentchooserdialog.h
+-rw-r--r-- 1 root root 10056 юли 10 00:39 gtkrecentchooser.h
+-rw-r--r-- 1 root root  2924 юли 10 00:39 gtkrecentchoosermenu.h
+-rw-r--r-- 1 root root  2760 юли 10 00:39 gtkrecentchooserwidget.h
+-rw-r--r-- 1 root root  5531 юли 10 00:39 gtkrecentfilter.h
+-rw-r--r-- 1 root root 10122 юли 10 00:39 gtkrecentmanager.h
+-rw-r--r-- 1 root root  8237 юли 10 00:39 gtkrender.h
+-rw-r--r-- 1 root root  3450 юли 10 00:39 gtkrevealer.h
+-rw-r--r-- 1 root root  4384 юли 10 00:39 gtkscalebutton.h
+-rw-r--r-- 1 root root  4914 юли 10 00:39 gtkscale.h
+-rw-r--r-- 1 root root  3224 юли 10 00:39 gtkscrollable.h
+-rw-r--r-- 1 root root  2497 юли 10 00:39 gtkscrollbar.h
+-rw-r--r-- 1 root root 10046 юли 10 00:39 gtkscrolledwindow.h
+-rw-r--r-- 1 root root  3390 юли 10 00:39 gtksearchbar.h
+-rw-r--r-- 1 root root  2735 юли 10 00:39 gtksearchentry.h
+-rw-r--r-- 1 root root 12769 юли 10 00:39 gtkselection.h
+-rw-r--r-- 1 root root  2578 юли 10 00:39 gtkseparator.h
+-rw-r--r-- 1 root root  2762 юли 10 00:39 gtkseparatormenuitem.h
+-rw-r--r-- 1 root root  2916 юли 10 00:39 gtkseparatortoolitem.h
+-rw-r--r-- 1 root root  6035 юли 10 00:39 gtksettings.h
+-rw-r--r-- 1 root root  2462 юли 10 00:39 gtkshortcutlabel.h
+-rw-r--r-- 1 root root  1830 юли 10 00:39 gtkshortcutsgroup.h
+-rw-r--r-- 1 root root  1896 юли 10 00:39 gtkshortcutssection.h
+-rw-r--r-- 1 root root  3404 юли 10 00:39 gtkshortcutsshortcut.h
+-rw-r--r-- 1 root root  2128 юли 10 00:39 gtkshortcutswindow.h
+-rw-r--r-- 1 root root  1509 юли 10 00:39 gtkshow.h
+-rw-r--r-- 1 root root  3177 юли 10 00:39 gtksizegroup.h
+-rw-r--r-- 1 root root  2010 юли 10 00:39 gtksizerequest.h
+-rw-r--r-- 1 root root  2918 юли 10 00:39 gtksocket.h
+-rw-r--r-- 1 root root  7981 юли 10 00:39 gtkspinbutton.h
+-rw-r--r-- 1 root root  2473 юли 10 00:39 gtkspinner.h
+-rw-r--r-- 1 root root  6580 юли 10 00:39 gtkstack.h
+-rw-r--r-- 1 root root  2656 юли 10 00:39 gtkstacksidebar.h
+-rw-r--r-- 1 root root  2624 юли 10 00:39 gtkstackswitcher.h
+-rw-r--r-- 1 root root  3729 юли 10 00:39 gtkstatusbar.h
+-rw-r--r-- 1 root root 36417 юли 10 00:39 gtkstylecontext.h
+-rw-r--r-- 1 root root  4796 юли 10 00:39 gtkstyleprovider.h
+-rw-r--r-- 1 root root  3304 юли 10 00:39 gtkswitch.h
+-rw-r--r-- 1 root root  4289 юли 10 00:39 gtktestutils.h
+-rw-r--r-- 1 root root  8312 юли 10 00:39 gtktextattributes.h
+-rw-r--r-- 1 root root 21622 юли 10 00:39 gtktextbuffer.h
+-rw-r--r-- 1 root root  7652 юли 10 00:39 gtktextbufferrichtext.h
+-rw-r--r-- 1 root root  3093 юли 10 00:39 gtktextchild.h
+-rw-r--r-- 1 root root  4445 юли 10 00:39 gtktextdisplay.h
+-rw-r--r-- 1 root root 16376 юли 10 00:39 gtktextiter.h
+-rw-r--r-- 1 root root 20587 юли 10 00:39 gtktextlayout.h
+-rw-r--r-- 1 root root  4768 юли 10 00:39 gtktextmark.h
+-rw-r--r-- 1 root root  5154 юли 10 00:39 gtktexttag.h
+-rw-r--r-- 1 root root  3852 юли 10 00:39 gtktexttagtable.h
+-rw-r--r-- 1 root root 22305 юли 10 00:39 gtktextview.h
+-rw-r--r-- 1 root root  3881 юли 10 00:39 gtktogglebutton.h
+-rw-r--r-- 1 root root  3275 юли 10 00:39 gtktoggletoolbutton.h
+-rw-r--r-- 1 root root  5400 юли 10 00:39 gtktoolbar.h
+-rw-r--r-- 1 root root  4540 юли 10 00:39 gtktoolbutton.h
+-rw-r--r-- 1 root root  5649 юли 10 00:39 gtktoolitemgroup.h
+-rw-r--r-- 1 root root  6124 юли 10 00:39 gtktoolitem.h
+-rw-r--r-- 1 root root  8012 юли 10 00:39 gtktoolpalette.h
+-rw-r--r-- 1 root root  4210 юли 10 00:39 gtktoolshell.h
+-rw-r--r-- 1 root root  2899 юли 10 00:39 gtktooltip.h
+-rw-r--r-- 1 root root  6130 юли 10 00:39 gtktreednd.h
+-rw-r--r-- 1 root root  7649 юли 10 00:39 gtktreemodelfilter.h
+-rw-r--r-- 1 root root 15729 юли 10 00:39 gtktreemodel.h
+-rw-r--r-- 1 root root  3806 юли 10 00:39 gtktreemodelsort.h
+-rw-r--r-- 1 root root  7316 юли 10 00:39 gtktreeselection.h
+-rw-r--r-- 1 root root  6316 юли 10 00:39 gtktreesortable.h
+-rw-r--r-- 1 root root  6455 юли 10 00:39 gtktreestore.h
+-rw-r--r-- 1 root root 13126 юли 10 00:39 gtktreeviewcolumn.h
+-rw-r--r-- 1 root root 28132 юли 10 00:39 gtktreeview.h
+-rw-r--r-- 1 root root 20368 юли 10 00:39 gtktypebuiltins.h
+-rw-r--r-- 1 root root  2544 юли 10 00:39 gtktypes.h
+-rw-r--r-- 1 root root  3369 юли 10 00:39 gtkversion.h
+-rw-r--r-- 1 root root  3724 юли 10 00:39 gtkviewport.h
+-rw-r--r-- 1 root root  2550 юли 10 00:39 gtkvolumebutton.h
+-rw-r--r-- 1 root root 67581 юли 10 00:39 gtkwidget.h
+-rw-r--r-- 1 root root  8856 юли 10 00:39 gtkwidgetpath.h
+-rw-r--r-- 1 root root  3224 юли 10 00:39 gtkwindowgroup.h
+-rw-r--r-- 1 root root 21244 юли 10 00:39 gtkwindow.h
+-rw-r--r-- 1 root root  1078 юли 10 00:39 gtkx-autocleanups.h
+-rw-r--r-- 1 root root  1064 юли 10 00:39 gtkx.h
+
+/opt/audacious-4.4/include/gtk-3.0/gtk/a11y:
+общо 232
+-rw-r--r-- 1 root root 4411 юли 10 00:39 gtk-a11y-autocleanups.h
+-rw-r--r-- 1 root root 2267 юли 10 00:39 gtkarrowaccessible.h
+-rw-r--r-- 1 root root 2420 юли 10 00:39 gtkbooleancellaccessible.h
+-rw-r--r-- 1 root root 2298 юли 10 00:39 gtkbuttonaccessible.h
+-rw-r--r-- 1 root root 2371 юли 10 00:39 gtkcellaccessible.h
+-rw-r--r-- 1 root root 7792 юли 10 00:39 gtkcellaccessibleparent.h
+-rw-r--r-- 1 root root 2481 юли 10 00:39 gtkcheckmenuitemaccessible.h
+-rw-r--r-- 1 root root 2376 юли 10 00:39 gtkcomboboxaccessible.h
+-rw-r--r-- 1 root root 2655 юли 10 00:39 gtkcontaineraccessible.h
+-rw-r--r-- 1 root root 3203 юли 10 00:39 gtkcontainercellaccessible.h
+-rw-r--r-- 1 root root 2338 юли 10 00:39 gtkentryaccessible.h
+-rw-r--r-- 1 root root 2312 юли 10 00:39 gtkexpanderaccessible.h
+-rw-r--r-- 1 root root 2702 юли 10 00:39 gtkfilechooserwidgetaccessible.h
+-rw-r--r-- 1 root root 2308 юли 10 00:39 gtkflowboxaccessible.h
+-rw-r--r-- 1 root root 2314 юли 10 00:39 gtkflowboxchildaccessible.h
+-rw-r--r-- 1 root root 2276 юли 10 00:39 gtkframeaccessible.h
+-rw-r--r-- 1 root root 2408 юли 10 00:39 gtkheaderbaraccessible.h
+-rw-r--r-- 1 root root 2418 юли 10 00:39 gtkiconviewaccessible.h
+-rw-r--r-- 1 root root 2267 юли 10 00:39 gtkimageaccessible.h
+-rw-r--r-- 1 root root 2374 юли 10 00:39 gtkimagecellaccessible.h
+-rw-r--r-- 1 root root 2207 юли 10 00:39 gtklabelaccessible.h
+-rw-r--r-- 1 root root 2412 юли 10 00:39 gtklevelbaraccessible.h
+-rw-r--r-- 1 root root 2379 юли 10 00:39 gtklinkbuttonaccessible.h
+-rw-r--r-- 1 root root 2307 юли 10 00:39 gtklistboxaccessible.h
+-rw-r--r-- 1 root root 2264 юли 10 00:39 gtklistboxrowaccessible.h
+-rw-r--r-- 1 root root 2438 юли 10 00:39 gtklockbuttonaccessible.h
+-rw-r--r-- 1 root root 2293 юли 10 00:39 gtkmenuaccessible.h
+-rw-r--r-- 1 root root 2399 юли 10 00:39 gtkmenubuttonaccessible.h
+-rw-r--r-- 1 root root 2370 юли 10 00:39 gtkmenuitemaccessible.h
+-rw-r--r-- 1 root root 2392 юли 10 00:39 gtkmenushellaccessible.h
+-rw-r--r-- 1 root root 2342 юли 10 00:39 gtknotebookaccessible.h
+-rw-r--r-- 1 root root 2725 юли 10 00:39 gtknotebookpageaccessible.h
+-rw-r--r-- 1 root root 2276 юли 10 00:39 gtkpanedaccessible.h
+-rw-r--r-- 1 root root 2514 юли 10 00:39 gtkplugaccessible.h
+-rw-r--r-- 1 root root 2249 юли 10 00:39 gtkpopoveraccessible.h
+-rw-r--r-- 1 root root 2471 юли 10 00:39 gtkprogressbaraccessible.h
+-rw-r--r-- 1 root root 2427 юли 10 00:39 gtkradiobuttonaccessible.h
+-rw-r--r-- 1 root root 2502 юли 10 00:39 gtkradiomenuitemaccessible.h
+-rw-r--r-- 1 root root 2273 юли 10 00:39 gtkrangeaccessible.h
+-rw-r--r-- 1 root root 2549 юли 10 00:39 gtkrenderercellaccessible.h
+-rw-r--r-- 1 root root 2286 юли 10 00:39 gtkscaleaccessible.h
+-rw-r--r-- 1 root root 2457 юли 10 00:39 gtkscalebuttonaccessible.h
+-rw-r--r-- 1 root root 2484 юли 10 00:39 gtkscrolledwindowaccessible.h
+-rw-r--r-- 1 root root 2489 юли 10 00:39 gtksocketaccessible.h
+-rw-r--r-- 1 root root 2420 юли 10 00:39 gtkspinbuttonaccessible.h
+-rw-r--r-- 1 root root 2267 юли 10 00:39 gtkspinneraccessible.h
+-rw-r--r-- 1 root root 2093 юли 10 00:39 gtkstackaccessible.h
+-rw-r--r-- 1 root root 2376 юли 10 00:39 gtkstatusbaraccessible.h
+-rw-r--r-- 1 root root 2239 юли 10 00:39 gtkswitchaccessible.h
+-rw-r--r-- 1 root root 2341 юли 10 00:39 gtktextcellaccessible.h
+-rw-r--r-- 1 root root 2353 юли 10 00:39 gtktextviewaccessible.h
+-rw-r--r-- 1 root root 2431 юли 10 00:39 gtktogglebuttonaccessible.h
+-rw-r--r-- 1 root root 2375 юли 10 00:39 gtktoplevelaccessible.h
+-rw-r--r-- 1 root root 2352 юли 10 00:39 gtktreeviewaccessible.h
+-rw-r--r-- 1 root root 2459 юли 10 00:39 gtkwidgetaccessible.h
+-rw-r--r-- 1 root root 2316 юли 10 00:39 gtkwindowaccessible.h
+
+/opt/audacious-4.4/include/gtk-3.0/gtk/deprecated:
+общо 308
+-rw-r--r-- 1 root root 11458 юли 10 00:39 gtkactiongroup.h
+-rw-r--r-- 1 root root  8807 юли 10 00:39 gtkaction.h
+-rw-r--r-- 1 root root  3706 юли 10 00:39 gtkactivatable.h
+-rw-r--r-- 1 root root  3551 юли 10 00:39 gtkalignment.h
+-rw-r--r-- 1 root root  2666 юли 10 00:39 gtkarrow.h
+-rw-r--r-- 1 root root  3174 юли 10 00:39 gtkcolorseldialog.h
+-rw-r--r-- 1 root root  7092 юли 10 00:39 gtkcolorsel.h
+-rw-r--r-- 1 root root  7289 юли 10 00:39 gtkfontsel.h
+-rw-r--r-- 1 root root  3040 юли 10 00:39 gtkgradient.h
+-rw-r--r-- 1 root root  4057 юли 10 00:39 gtkhandlebox.h
+-rw-r--r-- 1 root root  2352 юли 10 00:39 gtkhbbox.h
+-rw-r--r-- 1 root root  2184 юли 10 00:39 gtkhbox.h
+-rw-r--r-- 1 root root  2170 юли 10 00:39 gtkhpaned.h
+-rw-r--r-- 1 root root  2438 юли 10 00:39 gtkhscale.h
+-rw-r--r-- 1 root root  2322 юли 10 00:39 gtkhscrollbar.h
+-rw-r--r-- 1 root root  2337 юли 10 00:39 gtkhseparator.h
+-rw-r--r-- 1 root root  3325 юли 10 00:39 gtkhsv.h
+-rw-r--r-- 1 root root  9813 юли 10 00:39 gtkiconfactory.h
+-rw-r--r-- 1 root root  4291 юли 10 00:39 gtkimagemenuitem.h
+-rw-r--r-- 1 root root  2859 юли 10 00:39 gtkmisc.h
+-rw-r--r-- 1 root root  4246 юли 10 00:39 gtknumerableicon.h
+-rw-r--r-- 1 root root  3927 юли 10 00:39 gtkradioaction.h
+-rw-r--r-- 1 root root 12726 юли 10 00:39 gtkrc.h
+-rw-r--r-- 1 root root  3393 юли 10 00:39 gtkrecentaction.h
+-rw-r--r-- 1 root root  8358 юли 10 00:39 gtkstatusicon.h
+-rw-r--r-- 1 root root 26196 юли 10 00:39 gtkstock.h
+-rw-r--r-- 1 root root 41215 юли 10 00:39 gtkstyle.h
+-rw-r--r-- 1 root root  5933 юли 10 00:39 gtkstyleproperties.h
+-rw-r--r-- 1 root root  2818 юли 10 00:39 gtksymboliccolor.h
+-rw-r--r-- 1 root root  5866 юли 10 00:39 gtktable.h
+-rw-r--r-- 1 root root  2834 юли 10 00:39 gtktearoffmenuitem.h
+-rw-r--r-- 1 root root 13293 юли 10 00:39 gtkthemingengine.h
+-rw-r--r-- 1 root root  3882 юли 10 00:39 gtktoggleaction.h
+-rw-r--r-- 1 root root  7553 юли 10 00:39 gtkuimanager.h
+-rw-r--r-- 1 root root  2297 юли 10 00:39 gtkvbbox.h
+-rw-r--r-- 1 root root  2155 юли 10 00:39 gtkvbox.h
+-rw-r--r-- 1 root root  2177 юли 10 00:39 gtkvpaned.h
+-rw-r--r-- 1 root root  2569 юли 10 00:39 gtkvscale.h
+-rw-r--r-- 1 root root  2455 юли 10 00:39 gtkvscrollbar.h
+-rw-r--r-- 1 root root  2476 юли 10 00:39 gtkvseparator.h
+
+/opt/audacious-4.4/include/gtk-3.0/unix-print:
+общо 0
+drwxr-xr-x 2 root root 164 юли 10 00:39 gtk/
+
+/opt/audacious-4.4/include/gtk-3.0/unix-print/gtk:
+общо 36
+-rw-r--r-- 1 root root 3390 юли 10 00:39 gtkpagesetupunixdialog.h
+-rw-r--r-- 1 root root 8056 юли 10 00:39 gtkprinter.h
+-rw-r--r-- 1 root root 7593 юли 10 00:39 gtkprintjob.h
+-rw-r--r-- 1 root root 5139 юли 10 00:39 gtkprintunixdialog.h
+-rw-r--r-- 1 root root 1133 юли 10 00:39 gtkunixprint-autocleanups.h
+-rw-r--r-- 1 root root 1034 юли 10 00:39 gtkunixprint.h
+
+/opt/audacious-4.4/lib:
+общо 21384
+drwxr-xr-x 9 root root     117 юли 10 00:39 audacious/
+drwxr-xr-x 3 root root      21 юли 10 00:39 gio/
+-rwxr-xr-x 1 root root   14392 юли 10 00:39 gio-launch-desktop*
+drwxr-xr-x 2 root root    4096 юли 10 00:39 girepository-1.0/
+drwxr-xr-x 3 root root      21 юли 10 00:39 glib-2.0/
+drwxr-xr-x 3 root root      19 юли 10 00:39 gtk-3.0/
+lrwxrwxrwx 1 root root      18 юли 10 00:39 libgailutil-3.so -> libgailutil-3.so.0*
+lrwxrwxrwx 1 root root      22 юли 10 00:39 libgailutil-3.so.0 -> libgailutil-3.so.0.0.0*
+-rwxr-xr-x 1 root root   34688 юли 10 00:39 libgailutil-3.so.0.0.0*
+lrwxrwxrwx 1 root root      13 юли 10 00:39 libgdk-3.so -> libgdk-3.so.0*
+lrwxrwxrwx 1 root root      21 юли 10 00:39 libgdk-3.so.0 -> libgdk-3.so.0.2411.32*
+-rwxr-xr-x 1 root root  964784 юли 10 00:39 libgdk-3.so.0.2411.32*
+-rw-r--r-- 1 root root 4943462 юли 10 00:39 libgio-2.0.a
+lrwxrwxrwx 1 root root      15 юли 10 00:39 libgio-2.0.so -> libgio-2.0.so.0*
+lrwxrwxrwx 1 root root      22 юли 10 00:39 libgio-2.0.so.0 -> libgio-2.0.so.0.8200.2*
+-rwxr-xr-x 1 root root 1883424 юли 10 00:39 libgio-2.0.so.0.8200.2*
+-rw-r--r-- 1 root root  778866 юли 10 00:39 libgirepository-2.0.a
+lrwxrwxrwx 1 root root      24 юли 10 00:39 libgirepository-2.0.so -> libgirepository-2.0.so.0*
+lrwxrwxrwx 1 root root      31 юли 10 00:39 libgirepository-2.0.so.0 -> libgirepository-2.0.so.0.8200.2*
+-rwxr-xr-x 1 root root  158440 юли 10 00:39 libgirepository-2.0.so.0.8200.2*
+-rw-r--r-- 1 root root 2419910 юли 10 00:39 libglib-2.0.a
+lrwxrwxrwx 1 root root      16 юли 10 00:39 libglib-2.0.so -> libglib-2.0.so.0*
+lrwxrwxrwx 1 root root      23 юли 10 00:39 libglib-2.0.so.0 -> libglib-2.0.so.0.8200.2*
+-rwxr-xr-x 1 root root 1371512 юли 10 00:39 libglib-2.0.so.0.8200.2*
+-rw-r--r-- 1 root root   19166 юли 10 00:39 libgmodule-2.0.a
+lrwxrwxrwx 1 root root      19 юли 10 00:39 libgmodule-2.0.so -> libgmodule-2.0.so.0*
+lrwxrwxrwx 1 root root      26 юли 10 00:39 libgmodule-2.0.so.0 -> libgmodule-2.0.so.0.8200.2*
+-rwxr-xr-x 1 root root   22464 юли 10 00:39 libgmodule-2.0.so.0.8200.2*
+-rw-r--r-- 1 root root  773026 юли 10 00:39 libgobject-2.0.a
+lrwxrwxrwx 1 root root      19 юли 10 00:39 libgobject-2.0.so -> libgobject-2.0.so.0*
+lrwxrwxrwx 1 root root      26 юли 10 00:39 libgobject-2.0.so.0 -> libgobject-2.0.so.0.8200.2*
+-rwxr-xr-x 1 root root  391280 юли 10 00:39 libgobject-2.0.so.0.8200.2*
+-rw-r--r-- 1 root root    2846 юли 10 00:39 libgthread-2.0.a
+lrwxrwxrwx 1 root root      19 юли 10 00:39 libgthread-2.0.so -> libgthread-2.0.so.0*
+lrwxrwxrwx 1 root root      26 юли 10 00:39 libgthread-2.0.so.0 -> libgthread-2.0.so.0.8200.2*
+-rwxr-xr-x 1 root root   14056 юли 10 00:39 libgthread-2.0.so.0.8200.2*
+lrwxrwxrwx 1 root root      13 юли 10 00:39 libgtk-3.so -> libgtk-3.so.0*
+lrwxrwxrwx 1 root root      21 юли 10 00:39 libgtk-3.so.0 -> libgtk-3.so.0.2411.32*
+-rwxr-xr-x 1 root root 8070456 юли 10 00:39 libgtk-3.so.0.2411.32*
+drwxr-xr-x 2 root root    4096 юли 10 00:39 pkgconfig/
+
+/opt/audacious-4.4/lib/audacious:
+общо 12
+drwxr-xr-x 2 root root  108 юли 10 00:39 Container/
+drwxr-xr-x 2 root root 4096 юли 10 00:39 Effect/
+drwxr-xr-x 2 root root 4096 юли 10 00:39 General/
+drwxr-xr-x 2 root root 4096 юли 10 00:39 Input/
+drwxr-xr-x 2 root root  133 юли 10 00:39 Output/
+drwxr-xr-x 2 root root   49 юли 10 00:39 Transport/
+drwxr-xr-x 2 root root   74 юли 10 00:39 Visualization/
+
+/opt/audacious-4.4/lib/audacious/Container:
+общо 124
+-rwxr-xr-x 1 root root 14296 юли 10 00:39 asx3.so*
+-rwxr-xr-x 1 root root 14296 юли 10 00:39 asx.so*
+-rwxr-xr-x 1 root root 18392 юли 10 00:39 audpl.so*
+-rwxr-xr-x 1 root root 18392 юли 10 00:39 cue.so*
+-rwxr-xr-x 1 root root 14296 юли 10 00:39 m3u.so*
+-rwxr-xr-x 1 root root 14296 юли 10 00:39 pls.so*
+-rwxr-xr-x 1 root root 18392 юли 10 00:39 xspf.so*
+
+/opt/audacious-4.4/lib/audacious/Effect:
+общо 288
+-rwxr-xr-x 1 root root 22376 юли 10 00:39 background_music.so*
+-rwxr-xr-x 1 root root 14304 юли 10 00:39 bitcrusher.so*
+-rwxr-xr-x 1 root root 14192 юли 10 00:39 bs2b.so*
+-rwxr-xr-x 1 root root 14280 юли 10 00:39 compressor.so*
+-rwxr-xr-x 1 root root 18376 юли 10 00:39 crossfade.so*
+-rwxr-xr-x 1 root root 14280 юли 10 00:39 crystalizer.so*
+-rwxr-xr-x 1 root root 14280 юли 10 00:39 echo.so*
+-rwxr-xr-x 1 root root 38848 юли 10 00:39 ladspa.so*
+-rwxr-xr-x 1 root root 14280 юли 10 00:39 mixer.so*
+-rwxr-xr-x 1 root root 18376 юли 10 00:39 resample.so*
+-rwxr-xr-x 1 root root 14280 юли 10 00:39 silence-removal.so*
+-rwxr-xr-x 1 root root 18376 юли 10 00:39 sox-resampler.so*
+-rwxr-xr-x 1 root root 18376 юли 10 00:39 speed-pitch.so*
+-rwxr-xr-x 1 root root 14192 юли 10 00:39 stereo.so*
+-rwxr-xr-x 1 root root 14192 юли 10 00:39 voice_removal.so*
+
+/opt/audacious-4.4/lib/audacious/General:
+общо 860
+-rwxr-xr-x 1 root root  14280 юли 10 00:39 albumart.so*
+-rwxr-xr-x 1 root root  63736 юли 10 00:39 aosd.so*
+-rwxr-xr-x 1 root root  14192 юли 10 00:39 cd-menu-items.so*
+-rwxr-xr-x 1 root root  18376 юли 10 00:39 delete-files.so*
+-rwxr-xr-x 1 root root 137240 юли 10 00:39 gtkui.so*
+-rwxr-xr-x 1 root root  34672 юли 10 00:39 hotkey.so*
+-rwxr-xr-x 1 root root  18288 юли 10 00:39 lirc.so*
+-rwxr-xr-x 1 root root  55232 юли 10 00:39 lyrics-gtk.so*
+-rwxr-xr-x 1 root root  79816 юли 10 00:39 mpris2.so*
+-rwxr-xr-x 1 root root  22464 юли 10 00:39 notify.so*
+-rwxr-xr-x 1 root root  18376 юли 10 00:39 playlist-manager.so*
+-rwxr-xr-x 1 root root  47056 юли 10 00:39 scrobbler.so*
+-rwxr-xr-x 1 root root  47040 юли 10 00:39 search-tool.so*
+-rwxr-xr-x 1 root root 228664 юли 10 00:39 skins.so*
+-rwxr-xr-x 1 root root  26568 юли 10 00:39 song_change.so*
+-rwxr-xr-x 1 root root  22384 юли 10 00:39 statusicon.so*
+
+/opt/audacious-4.4/lib/audacious/Input:
+общо 1804
+-rwxr-xr-x 1 root root  18400 юли 10 00:39 aac-raw.so*
+-rwxr-xr-x 1 root root  74152 юли 10 00:39 amidi-plug.so*
+-rwxr-xr-x 1 root root  30688 юли 10 00:39 cdaudio-ng.so*
+-rwxr-xr-x 1 root root 354616 юли 10 00:39 console.so*
+-rwxr-xr-x 1 root root  30688 юли 10 00:39 ffaudio.so*
+-rwxr-xr-x 1 root root  34784 юли 10 00:39 flacng.so*
+-rwxr-xr-x 1 root root  18400 юли 10 00:39 madplug.so*
+-rwxr-xr-x 1 root root  15168 юли 10 00:39 metronom.so*
+-rwxr-xr-x 1 root root  34896 юли 10 00:39 modplug.so*
+-rwxr-xr-x 1 root root  18400 юли 10 00:39 openmpt.so*
+-rwxr-xr-x 1 root root  18408 юли 10 00:39 opus.so*
+-rwxr-xr-x 1 root root 138128 юли 10 00:39 psf2.so*
+-rwxr-xr-x 1 root root  30696 юли 10 00:39 sid.so*
+-rwxr-xr-x 1 root root  22624 юли 10 00:39 sndfile.so*
+-rwxr-xr-x 1 root root  18400 юли 10 00:39 tonegen.so*
+-rwxr-xr-x 1 root root  34840 юли 10 00:39 vorbis.so*
+-rwxr-xr-x 1 root root  31096 юли 10 00:39 vtx.so*
+-rwxr-xr-x 1 root root  18464 юли 10 00:39 wavpack.so*
+-rwxr-xr-x 1 root root 865144 юли 10 00:39 xsf.so*
+
+/opt/audacious-4.4/lib/audacious/Output:
+общо 244
+-rwxr-xr-x 1 root root 42952 юли 10 00:39 alsa.so*
+-rwxr-xr-x 1 root root 55520 юли 10 00:39 filewriter.so*
+-rwxr-xr-x 1 root root 26792 юли 10 00:39 jack-ng.so*
+-rwxr-xr-x 1 root root 26584 юли 10 00:39 oss4.so*
+-rwxr-xr-x 1 root root 39000 юли 10 00:39 pipewire.so*
+-rwxr-xr-x 1 root root 26632 юли 10 00:39 pulse_audio.so*
+-rwxr-xr-x 1 root root 18376 юли 10 00:39 sdlout.so*
+
+/opt/audacious-4.4/lib/audacious/Transport:
+общо 84
+-rwxr-xr-x 1 root root 22488 юли 10 00:39 gio.so*
+-rwxr-xr-x 1 root root 18384 юли 10 00:39 mms.so*
+-rwxr-xr-x 1 root root 38864 юли 10 00:39 neon.so*
+
+/opt/audacious-4.4/lib/audacious/Visualization:
+общо 60
+-rwxr-xr-x 1 root root 18336 юли 10 00:39 blur_scope.so*
+-rwxr-xr-x 1 root root 18296 юли 10 00:39 cairo-spectrum.so*
+-rwxr-xr-x 1 root root 18296 юли 10 00:39 gl-spectrum.so*
+
+/opt/audacious-4.4/lib/gio:
+общо 0
+drwxr-xr-x 2 root root 19 юли 10 00:39 modules/
+
+/opt/audacious-4.4/lib/gio/modules:
+общо 0
+
+/opt/audacious-4.4/lib/girepository-1.0:
+общо 1612
+-rw-r--r-- 1 root root 235840 юли 10 00:39 Gdk-3.0.typelib
+-rw-r--r-- 1 root root  10944 юли 10 00:39 GdkX11-3.0.typelib
+-rw-r--r-- 1 root root 370880 юли 10 00:39 Gio-2.0.typelib
+-rw-r--r-- 1 root root  14808 юли 10 00:39 GioUnix-2.0.typelib
+-rw-r--r-- 1 root root  24332 юли 10 00:39 GIRepository-3.0.typelib
+-rw-r--r-- 1 root root 228328 юли 10 00:39 GLib-2.0.typelib
+-rw-r--r-- 1 root root   2084 юли 10 00:39 GLibUnix-2.0.typelib
+-rw-r--r-- 1 root root   1908 юли 10 00:39 GModule-2.0.typelib
+-rw-r--r-- 1 root root  66124 юли 10 00:39 GObject-2.0.typelib
+-rw-r--r-- 1 root root 679292 юли 10 00:39 Gtk-3.0.typelib
+
+/opt/audacious-4.4/lib/glib-2.0:
+общо 0
+drwxr-xr-x 2 root root 26 юли 10 00:39 include/
+
+/opt/audacious-4.4/lib/glib-2.0/include:
+общо 8
+-rw-r--r-- 1 root root 6007 юли 10 00:39 glibconfig.h
+
+/opt/audacious-4.4/lib/gtk-3.0:
+общо 0
+drwxr-xr-x 4 root root 44 юли 10 00:39 3.0.0/
+
+/opt/audacious-4.4/lib/gtk-3.0/3.0.0:
+общо 4
+drwxr-xr-x 2 root root 4096 юли 10 00:39 immodules/
+drwxr-xr-x 2 root root   98 юли 10 00:39 printbackends/
+
+/opt/audacious-4.4/lib/gtk-3.0/3.0.0/immodules:
+общо 280
+-rwxr-xr-x 1 root root 27608 юли 10 00:39 im-am-et.so*
+-rwxr-xr-x 1 root root 14288 юли 10 00:39 im-broadway.so*
+-rwxr-xr-x 1 root root 14376 юли 10 00:39 im-cedilla.so*
+-rwxr-xr-x 1 root root 15928 юли 10 00:39 im-cyrillic-translit.so*
+-rwxr-xr-x 1 root root 16352 юли 10 00:39 im-inuktitut.so*
+-rwxr-xr-x 1 root root 15024 юли 10 00:39 im-ipa.so*
+-rwxr-xr-x 1 root root 18384 юли 10 00:39 im-multipress.so*
+-rwxr-xr-x 1 root root 14280 юли 10 00:39 im-thai.so*
+-rwxr-xr-x 1 root root 27592 юли 10 00:39 im-ti-er.so*
+-rwxr-xr-x 1 root root 27592 юли 10 00:39 im-ti-et.so*
+-rwxr-xr-x 1 root root 16240 юли 10 00:39 im-viqr.so*
+-rwxr-xr-x 1 root root 26656 юли 10 00:39 im-wayland.so*
+-rwxr-xr-x 1 root root 34760 юли 10 00:39 im-xim.so*
+
+/opt/audacious-4.4/lib/gtk-3.0/3.0.0/printbackends:
+общо 176
+-rwxr-xr-x 1 root root 133816 юли 10 00:39 libprintbackend-cups.so*
+-rwxr-xr-x 1 root root  22480 юли 10 00:39 libprintbackend-file.so*
+-rwxr-xr-x 1 root root  18384 юли 10 00:39 libprintbackend-lpr.so*
+
+/opt/audacious-4.4/lib/pkgconfig:
+общо 80
+-rw-r--r-- 1 root root 357 юли 10 00:39 audacious.pc
+-rw-r--r-- 1 root root 256 юли 10 00:39 gail-3.0.pc
+-rw-r--r-- 1 root root 615 юли 10 00:39 gdk-3.0.pc
+-rw-r--r-- 1 root root 615 юли 10 00:39 gdk-broadway-3.0.pc
+-rw-r--r-- 1 root root 615 юли 10 00:39 gdk-wayland-3.0.pc
+-rw-r--r-- 1 root root 615 юли 10 00:39 gdk-x11-3.0.pc
+-rw-r--r-- 1 root root 737 юли 10 00:39 gio-2.0.pc
+-rw-r--r-- 1 root root 211 юли 10 00:39 gio-unix-2.0.pc
+-rw-r--r-- 1 root root 465 юли 10 00:39 girepository-2.0.pc
+-rw-r--r-- 1 root root 535 юли 10 00:39 glib-2.0.pc
+-rw-r--r-- 1 root root 254 юли 10 00:39 gmodule-2.0.pc
+-rw-r--r-- 1 root root 254 юли 10 00:39 gmodule-export-2.0.pc
+-rw-r--r-- 1 root root 254 юли 10 00:39 gmodule-no-export-2.0.pc
+-rw-r--r-- 1 root root 264 юли 10 00:39 gobject-2.0.pc
+-rw-r--r-- 1 root root 223 юли 10 00:39 gthread-2.0.pc
+-rw-r--r-- 1 root root 588 юли 10 00:39 gtk+-3.0.pc
+-rw-r--r-- 1 root root 588 юли 10 00:39 gtk+-broadway-3.0.pc
+-rw-r--r-- 1 root root 387 юли 10 00:39 gtk+-unix-print-3.0.pc
+-rw-r--r-- 1 root root 588 юли 10 00:39 gtk+-wayland-3.0.pc
+-rw-r--r-- 1 root root 588 юли 10 00:39 gtk+-x11-3.0.pc
+
+/opt/audacious-4.4/share:
+общо 8
+drwxr-xr-x   2 root root   86 юли 10 00:39 aclocal/
+drwxr-xr-x   3 root root   19 юли 10 00:39 app-info/
+drwxr-xr-x   2 root root   31 юли 10 00:39 applications/
+drwxr-xr-x   3 root root   19 юли 10 00:39 audacious/
+drwxr-xr-x   3 root root   25 юли 10 00:39 bash-completion/
+drwxr-xr-x   3 root root   17 юли 10 00:39 gettext/
+drwxr-xr-x   2 root root 4096 юли 10 00:39 gir-1.0/
+drwxr-xr-x   6 root root   64 юли 10 00:39 glib-2.0/
+drwxr-xr-x   4 root root   77 юли 10 00:39 gtk-3.0/
+drwxr-xr-x   3 root root   21 юли 10 00:39 icons/
+drwxr-xr-x   3 root root   19 юли 10 00:39 libalpm/
+drwxr-xr-x   4 root root   53 юли 10 00:39 licenses/
+drwxr-xr-x 123 root root 4096 юли 10 00:39 locale/
+drwxr-xr-x   3 root root   18 юли 10 00:39 man/
+drwxr-xr-x   2 root root   35 юли 10 00:39 metainfo/
+drwxr-xr-x   4 root root   34 юли 10 00:39 themes/
+
+/opt/audacious-4.4/share/aclocal:
+общо 44
+-rw-r--r-- 1 root root  8371 юли 10 00:39 glib-2.0.m4
+-rw-r--r-- 1 root root 15744 юли 10 00:39 glib-gettext.m4
+-rw-r--r-- 1 root root  3589 юли 10 00:39 gsettings.m4
+-rw-r--r-- 1 root root  8227 юли 10 00:39 gtk-3.0.m4
+
+/opt/audacious-4.4/share/app-info:
+общо 0
+drwxr-xr-x 3 root root 34 юли 10 00:39 icons/
+
+/opt/audacious-4.4/share/app-info/icons:
+общо 0
+drwxr-xr-x 5 root root 47 юли 10 00:39 archlinux-arch-extra/
+
+/opt/audacious-4.4/share/app-info/icons/archlinux-arch-extra:
+общо 0
+drwxr-xr-x 2 root root 37 юли 10 00:39 128x128/
+drwxr-xr-x 2 root root 37 юли 10 00:39 48x48/
+drwxr-xr-x 2 root root 37 юли 10 00:39 64x64/
+
+/opt/audacious-4.4/share/app-info/icons/archlinux-arch-extra/128x128:
+общо 20
+-rwxr-xr-x 1 root root 16778 юли 10 00:39 audacious_audacious.png*
+
+/opt/audacious-4.4/share/app-info/icons/archlinux-arch-extra/48x48:
+общо 4
+-rwxr-xr-x 1 root root 4030 юли 10 00:39 audacious_audacious.png*
+
+/opt/audacious-4.4/share/app-info/icons/archlinux-arch-extra/64x64:
+общо 8
+-rwxr-xr-x 1 root root 6152 юли 10 00:39 audacious_audacious.png*
+
+/opt/audacious-4.4/share/applications:
+общо 8
+-rw-r--r-- 1 root root 4100 юли 10 00:39 audacious.desktop
+
+/opt/audacious-4.4/share/audacious:
+общо 0
+drwxr-xr-x 3 root root 41 юли 10 00:39 Skins/
+
+/opt/audacious-4.4/share/audacious/Skins:
+общо 4
+drwxr-xr-x 2 root root 4096 юли 10 00:39 Brighter_Winacious_by_Valso/
+
+/opt/audacious-4.4/share/audacious/Skins/Brighter_Winacious_by_Valso:
+общо 92
+-rwxr-xr-x 1 root root  2937 юли 10 00:39 cbuttons.png*
+-rwxr-xr-x 1 root root  2198 юли 10 00:39 eq_ex.png*
+-rwxr-xr-x 1 root root  7064 юли 10 00:39 eqmain.png*
+-rwxr-xr-x 1 root root  4407 юли 10 00:39 main.png*
+-rwxr-xr-x 1 root root  1372 юли 10 00:39 monoster.png*
+-rwxr-xr-x 1 root root   408 юли 10 00:39 nums_ex.png*
+-rwxr-xr-x 1 root root   444 юли 10 00:39 playpaus.png*
+-rwxr-xr-x 1 root root 16777 юли 10 00:39 pledit.png*
+-rwxr-xr-x 1 root root    74 юли 10 00:39 pledit.txt*
+-rwxr-xr-x 1 root root   259 юли 10 00:39 posbar.png*
+-rwxr-xr-x 1 root root  3044 юли 10 00:39 shufrep.png*
+-rwxr-xr-x 1 root root   672 юли 10 00:39 skin.hints*
+-rwxr-xr-x 1 root root   674 юли 10 00:39 text.png*
+-rwxr-xr-x 1 root root  6788 юли 10 00:39 titlebar.png*
+-rwxr-xr-x 1 root root   506 юли 10 00:39 viscolor.txt*
+-rwxr-xr-x 1 root root   624 юли 10 00:39 volume.png*
+
+/opt/audacious-4.4/share/bash-completion:
+общо 0
+drwxr-xr-x 2 root root 67 юли 10 00:39 completions/
+
+/opt/audacious-4.4/share/bash-completion/completions:
+общо 20
+-rw-r--r-- 1 root root 2370 юли 10 00:39 gapplication
+-rw-r--r-- 1 root root 1809 юли 10 00:39 gdbus
+-rw-r--r-- 1 root root 4020 юли 10 00:39 gio
+-rw-r--r-- 1 root root 4217 юли 10 00:39 gsettings
+
+/opt/audacious-4.4/share/gettext:
+общо 0
+drwxr-xr-x 2 root root 88 юли 10 00:39 its/
+
+/opt/audacious-4.4/share/gettext/its:
+общо 16
+-rw-r--r-- 1 root root 1048 юли 10 00:39 gschema.its
+-rw-r--r-- 1 root root  333 юли 10 00:39 gschema.loc
+-rw-r--r-- 1 root root 1051 юли 10 00:39 gtkbuilder.its
+-rw-r--r-- 1 root root  189 юли 10 00:39 gtkbuilder.loc
+
+/opt/audacious-4.4/share/gir-1.0:
+общо 23324
+-rw-r--r-- 1 root root 1737114 юли 10 00:39 Gdk-3.0.gir
+-rw-r--r-- 1 root root  126303 юли 10 00:39 GdkX11-3.0.gir
+-rw-r--r-- 1 root root 6281609 юли 10 00:39 Gio-2.0.gir
+-rw-r--r-- 1 root root  162075 юли 10 00:39 GioUnix-2.0.gir
+-rw-r--r-- 1 root root  399820 юли 10 00:39 GIRepository-3.0.gir
+-rw-r--r-- 1 root root 3952054 юли 10 00:39 GLib-2.0.gir
+-rw-r--r-- 1 root root   12129 юли 10 00:39 GLibUnix-2.0.gir
+-rw-r--r-- 1 root root   64737 юли 10 00:39 GModule-2.0.gir
+-rw-r--r-- 1 root root 1292889 юли 10 00:39 GObject-2.0.gir
+-rw-r--r-- 1 root root 9838774 юли 10 00:39 Gtk-3.0.gir
+
+/opt/audacious-4.4/share/glib-2.0:
+общо 4
+drwxr-xr-x 2 root root   27 юли 10 00:39 dtds/
+drwxr-xr-x 3 root root   16 юли 10 00:39 gettext/
+drwxr-xr-x 2 root root 4096 юли 10 00:39 schemas/
+drwxr-xr-x 2 root root   23 юли 10 00:39 valgrind/
+
+/opt/audacious-4.4/share/glib-2.0/dtds:
+общо 4
+-rw-r--r-- 1 root root 480 юли 10 00:39 gresource.dtd
+
+/opt/audacious-4.4/share/glib-2.0/gettext:
+общо 0
+drwxr-xr-x 2 root root 28 юли 10 00:39 po/
+
+/opt/audacious-4.4/share/glib-2.0/gettext/po:
+общо 8
+-rw-r--r-- 1 root root 7964 юли 10 00:39 Makefile.in.in
+
+/opt/audacious-4.4/share/glib-2.0/schemas:
+общо 24
+-rw-r--r-- 1 root root 2917 юли 10 00:39 gschema.dtd
+-rw-r--r-- 1 root root  931 юли 10 00:39 org.gtk.Settings.ColorChooser.gschema.xml
+-rw-r--r-- 1 root root  833 юли 10 00:39 org.gtk.Settings.Debug.gschema.xml
+-rw-r--r-- 1 root root  623 юли 10 00:39 org.gtk.Settings.EmojiChooser.gschema.xml
+-rw-r--r-- 1 root root 6212 юли 10 00:39 org.gtk.Settings.FileChooser.gschema.xml
+
+/opt/audacious-4.4/share/glib-2.0/valgrind:
+общо 24
+-rw-r--r-- 1 root root 21991 юли 10 00:39 glib.supp
+
+/opt/audacious-4.4/share/gtk-3.0:
+общо 16
+drwxr-xr-x 2 root root 4096 юли 10 00:39 emoji/
+-rw-r--r-- 1 root root 7978 юли 10 00:39 gtkbuilder.rng
+-rw-r--r-- 1 root root   95 юли 10 00:39 settings.ini
+drwxr-xr-x 2 root root   22 юли 10 00:39 valgrind/
+
+/opt/audacious-4.4/share/gtk-3.0/emoji:
+общо 3304
+-rw-r--r-- 1 root root 224664 юли 10 00:39 bn.gresource
+-rw-r--r-- 1 root root 109259 юли 10 00:39 da.gresource
+-rw-r--r-- 1 root root 149659 юли 10 00:39 de.gresource
+-rw-r--r-- 1 root root 131700 юли 10 00:39 es.gresource
+-rw-r--r-- 1 root root 115616 юли 10 00:39 et.gresource
+-rw-r--r-- 1 root root 128364 юли 10 00:39 fi.gresource
+-rw-r--r-- 1 root root 121472 юли 10 00:39 fr.gresource
+-rw-r--r-- 1 root root 227912 юли 10 00:39 hi.gresource
+-rw-r--r-- 1 root root 127848 юли 10 00:39 hu.gresource
+-rw-r--r-- 1 root root 138692 юли 10 00:39 it.gresource
+-rw-r--r-- 1 root root 129052 юли 10 00:39 ja.gresource
+-rw-r--r-- 1 root root 120528 юли 10 00:39 ko.gresource
+-rw-r--r-- 1 root root 133184 юли 10 00:39 lt.gresource
+-rw-r--r-- 1 root root 126680 юли 10 00:39 ms.gresource
+-rw-r--r-- 1 root root 121512 юли 10 00:39 nb.gresource
+-rw-r--r-- 1 root root 119664 юли 10 00:39 nl.gresource
+-rw-r--r-- 1 root root 134708 юли 10 00:39 pl.gresource
+-rw-r--r-- 1 root root 133980 юли 10 00:39 pt.gresource
+-rw-r--r-- 1 root root 211296 юли 10 00:39 ru.gresource
+-rw-r--r-- 1 root root 117240 юли 10 00:39 sv.gresource
+-rw-r--r-- 1 root root 199751 юли 10 00:39 th.gresource
+-rw-r--r-- 1 root root 214440 юли 10 00:39 uk.gresource
+-rw-r--r-- 1 root root 103804 юли 10 00:39 zh.gresource
+
+/opt/audacious-4.4/share/gtk-3.0/valgrind:
+общо 8
+-rw-r--r-- 1 root root 4174 юли 10 00:39 gtk.supp
+
+/opt/audacious-4.4/share/icons:
+общо 0
+drwxr-xr-x 4 root root 35 юли 10 00:39 hicolor/
+
+/opt/audacious-4.4/share/icons/hicolor:
+общо 0
+drwxr-xr-x 3 root root 18 юли 10 00:39 48x48/
+drwxr-xr-x 3 root root 18 юли 10 00:39 scalable/
+
+/opt/audacious-4.4/share/icons/hicolor/48x48:
+общо 0
+drwxr-xr-x 2 root root 27 юли 10 00:39 apps/
+
+/opt/audacious-4.4/share/icons/hicolor/48x48/apps:
+общо 8
+-rwxr-xr-x 1 root root 6234 юли 10 00:39 audacious.png*
+
+/opt/audacious-4.4/share/icons/hicolor/scalable:
+общо 0
+drwxr-xr-x 2 root root 27 юли 10 00:39 apps/
+
+/opt/audacious-4.4/share/icons/hicolor/scalable/apps:
+общо 284
+-rw-r--r-- 1 root root 287033 юли 10 00:39 audacious.svg
+
+/opt/audacious-4.4/share/libalpm:
+общо 0
+drwxr-xr-x 2 root root 104 юли 10 00:39 hooks/
+
+/opt/audacious-4.4/share/libalpm/hooks:
+общо 12
+-rw-r--r-- 1 root root 245 юли 10 00:39 gio-querymodules.hook
+-rw-r--r-- 1 root root 322 юли 10 00:39 glib-compile-schemas.hook
+-rw-r--r-- 1 root root 266 юли 10 00:39 gtk-query-immodules-3.0.hook
+
+/opt/audacious-4.4/share/licenses:
+общо 0
+drwxr-xr-x 2 root root 21 юли 10 00:39 audacious/
+drwxr-xr-x 2 root root 21 юли 10 00:39 audacious-plugins-gtk3/
+
+/opt/audacious-4.4/share/licenses/audacious:
+общо 4
+-rw-r--r-- 1 root root 2900 юли 10 00:39 COPYING
+
+/opt/audacious-4.4/share/licenses/audacious-plugins-gtk3:
+общо 4
+-rw-r--r-- 1 root root 1038 юли 10 00:39 COPYING
+
+/opt/audacious-4.4/share/locale:
+общо 0
+drwxr-xr-x 3 root root 25 юли 10 00:39 ab/
+drwxr-xr-x 3 root root 25 юли 10 00:39 af/
+drwxr-xr-x 3 root root 25 юли 10 00:39 am/
+drwxr-xr-x 3 root root 25 юли 10 00:39 an/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ang/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ar/
+drwxr-xr-x 3 root root 25 юли 10 00:39 as/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ast/
+drwxr-xr-x 3 root root 25 юли 10 00:39 az/
+drwxr-xr-x 3 root root 25 юли 10 00:39 az_IR/
+drwxr-xr-x 3 root root 25 юли 10 00:39 be/
+drwxr-xr-x 3 root root 25 юли 10 00:39 be@latin/
+drwxr-xr-x 3 root root 25 юли 10 00:39 bg/
+drwxr-xr-x 3 root root 25 юли 10 00:39 bn/
+drwxr-xr-x 3 root root 25 юли 10 00:39 bn_IN/
+drwxr-xr-x 3 root root 25 юли 10 00:39 br/
+drwxr-xr-x 3 root root 25 юли 10 00:39 bs/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ca/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ca@valencia/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ckb/
+drwxr-xr-x 3 root root 25 юли 10 00:39 crh/
+drwxr-xr-x 3 root root 25 юли 10 00:39 cs/
+drwxr-xr-x 3 root root 25 юли 10 00:39 cy/
+drwxr-xr-x 3 root root 25 юли 10 00:39 da/
+drwxr-xr-x 3 root root 25 юли 10 00:39 de/
+drwxr-xr-x 3 root root 25 юли 10 00:39 dz/
+drwxr-xr-x 3 root root 25 юли 10 00:39 el/
+drwxr-xr-x 3 root root 25 юли 10 00:39 en/
+drwxr-xr-x 3 root root 25 юли 10 00:39 en_CA/
+drwxr-xr-x 3 root root 25 юли 10 00:39 en_GB/
+drwxr-xr-x 3 root root 25 юли 10 00:39 en@shaw/
+drwxr-xr-x 3 root root 25 юли 10 00:39 eo/
+drwxr-xr-x 3 root root 25 юли 10 00:39 es/
+drwxr-xr-x 3 root root 25 юли 10 00:39 et/
+drwxr-xr-x 3 root root 25 юли 10 00:39 eu/
+drwxr-xr-x 3 root root 25 юли 10 00:39 fa/
+drwxr-xr-x 3 root root 25 юли 10 00:39 fi/
+drwxr-xr-x 3 root root 25 юли 10 00:39 fr/
+drwxr-xr-x 3 root root 25 юли 10 00:39 fur/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ga/
+drwxr-xr-x 3 root root 25 юли 10 00:39 gd/
+drwxr-xr-x 3 root root 25 юли 10 00:39 gl/
+drwxr-xr-x 3 root root 25 юли 10 00:39 gu/
+drwxr-xr-x 3 root root 25 юли 10 00:39 he/
+drwxr-xr-x 3 root root 25 юли 10 00:39 hi/
+drwxr-xr-x 3 root root 25 юли 10 00:39 hr/
+drwxr-xr-x 3 root root 25 юли 10 00:39 hu/
+drwxr-xr-x 3 root root 25 юли 10 00:39 hy/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ia/
+drwxr-xr-x 3 root root 25 юли 10 00:39 id/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ie/
+drwxr-xr-x 3 root root 25 юли 10 00:39 io/
+drwxr-xr-x 3 root root 25 юли 10 00:39 is/
+drwxr-xr-x 3 root root 25 юли 10 00:39 it/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ja/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ka/
+drwxr-xr-x 3 root root 25 юли 10 00:39 kab/
+drwxr-xr-x 3 root root 25 юли 10 00:39 kg/
+drwxr-xr-x 3 root root 25 юли 10 00:39 kk/
+drwxr-xr-x 3 root root 25 юли 10 00:39 km/
+drwxr-xr-x 3 root root 25 юли 10 00:39 kn/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ko/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ku/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ky/
+drwxr-xr-x 3 root root 25 юли 10 00:39 lg/
+drwxr-xr-x 3 root root 25 юли 10 00:39 li/
+drwxr-xr-x 3 root root 25 юли 10 00:39 lt/
+drwxr-xr-x 3 root root 25 юли 10 00:39 lv/
+drwxr-xr-x 3 root root 25 юли 10 00:39 mai/
+drwxr-xr-x 3 root root 25 юли 10 00:39 mg/
+drwxr-xr-x 3 root root 25 юли 10 00:39 mi/
+drwxr-xr-x 3 root root 25 юли 10 00:39 mk/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ml/
+drwxr-xr-x 3 root root 25 юли 10 00:39 mn/
+drwxr-xr-x 3 root root 25 юли 10 00:39 mr/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ms/
+drwxr-xr-x 3 root root 25 юли 10 00:39 my/
+drwxr-xr-x 3 root root 25 юли 10 00:39 nb/
+drwxr-xr-x 3 root root 25 юли 10 00:39 nds/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ne/
+drwxr-xr-x 3 root root 25 юли 10 00:39 nl/
+drwxr-xr-x 3 root root 25 юли 10 00:39 nn/
+drwxr-xr-x 3 root root 25 юли 10 00:39 nso/
+drwxr-xr-x 3 root root 25 юли 10 00:39 oc/
+drwxr-xr-x 3 root root 25 юли 10 00:39 or/
+drwxr-xr-x 3 root root 25 юли 10 00:39 pa/
+drwxr-xr-x 3 root root 25 юли 10 00:39 pl/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ps/
+drwxr-xr-x 3 root root 25 юли 10 00:39 pt/
+drwxr-xr-x 3 root root 25 юли 10 00:39 pt_BR/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ro/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ru/
+drwxr-xr-x 3 root root 25 юли 10 00:39 rw/
+drwxr-xr-x 3 root root 25 юли 10 00:39 si/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sk/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sl/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sq/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sr/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sr@ije/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sr@latin/
+drwxr-xr-x 3 root root 25 юли 10 00:39 sv/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ta/
+drwxr-xr-x 3 root root 25 юли 10 00:39 te/
+drwxr-xr-x 3 root root 25 юли 10 00:39 tg/
+drwxr-xr-x 3 root root 25 юли 10 00:39 th/
+drwxr-xr-x 3 root root 25 юли 10 00:39 tk/
+drwxr-xr-x 3 root root 25 юли 10 00:39 tl/
+drwxr-xr-x 3 root root 25 юли 10 00:39 tr/
+drwxr-xr-x 3 root root 25 юли 10 00:39 tt/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ug/
+drwxr-xr-x 3 root root 25 юли 10 00:39 uk/
+drwxr-xr-x 3 root root 25 юли 10 00:39 ur/
+drwxr-xr-x 3 root root 25 юли 10 00:39 uz/
+drwxr-xr-x 3 root root 25 юли 10 00:39 uz@cyrillic/
+drwxr-xr-x 3 root root 25 юли 10 00:39 vi/
+drwxr-xr-x 3 root root 25 юли 10 00:39 wa/
+drwxr-xr-x 3 root root 25 юли 10 00:39 xh/
+drwxr-xr-x 3 root root 25 юли 10 00:39 yi/
+drwxr-xr-x 3 root root 25 юли 10 00:39 zh_CN/
+drwxr-xr-x 3 root root 25 юли 10 00:39 zh_HK/
+drwxr-xr-x 3 root root 25 юли 10 00:39 zh_TW/
+
+/opt/audacious-4.4/share/locale/ab:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ab/LC_MESSAGES:
+общо 44
+-rw-r--r-- 1 root root 10614 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 18778 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  8960 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/af:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/af/LC_MESSAGES:
+общо 164
+-rw-r--r-- 1 root root  9368 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 74735 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 75965 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/am:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/am/LC_MESSAGES:
+общо 16
+-rw-r--r-- 1 root root 2655 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 1594 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 5064 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/an:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/an/LC_MESSAGES:
+общо 316
+-rw-r--r-- 1 root root 100884 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  64312 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 152872 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ang:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ang/LC_MESSAGES:
+общо 8
+-rw-r--r-- 1 root root 1967 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 1916 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ar:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ar/LC_MESSAGES:
+общо 288
+-rw-r--r-- 1 root root  48379 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  86971 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 152742 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/as:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/as/LC_MESSAGES:
+общо 504
+-rw-r--r-- 1 root root 144513 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 102225 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 265630 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ast:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ast/LC_MESSAGES:
+общо 276
+-rw-r--r-- 1 root root  46590 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  53267 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 174093 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/az:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/az/LC_MESSAGES:
+общо 108
+-rw-r--r-- 1 root root 12704 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  7348 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 82989 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/az_IR:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/az_IR/LC_MESSAGES:
+общо 8
+-rw-r--r-- 1 root root 568 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 380 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/be:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/be/LC_MESSAGES:
+общо 500
+-rw-r--r-- 1 root root 103847 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 132262 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 266488 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/be@latin:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/be@latin/LC_MESSAGES:
+общо 220
+-rw-r--r-- 1 root root  37326 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  48001 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 133037 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/bg:
+общо 0
+drwxr-xr-x 2 root root 114 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/bg/LC_MESSAGES:
+общо 680
+-rw-r--r-- 1 root root  27491 юли 10 00:39 audacious.mo
+-rw-r--r-- 1 root root  98866 юли 10 00:39 audacious-plugins.mo
+-rw-r--r-- 1 root root 183853 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 137102 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 241288 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/bn:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/bn/LC_MESSAGES:
+общо 388
+-rw-r--r-- 1 root root  72564 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  82289 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 236995 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/bn_IN:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/bn_IN/LC_MESSAGES:
+общо 476
+-rw-r--r-- 1 root root 152932 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  92922 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 236812 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/br:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/br/LC_MESSAGES:
+общо 52
+-rw-r--r-- 1 root root 42018 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  7341 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/bs:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/bs/LC_MESSAGES:
+общо 340
+-rw-r--r-- 1 root root 100608 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  69331 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 175206 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ca:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ca/LC_MESSAGES:
+общо 468
+-rw-r--r-- 1 root root 146652 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 111307 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 213024 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ca@valencia:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ca@valencia/LC_MESSAGES:
+общо 428
+-rw-r--r-- 1 root root 130719 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  90682 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 210775 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ckb:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ckb/LC_MESSAGES:
+общо 44
+-rw-r--r-- 1 root root 39543 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root   398 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/crh:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/crh/LC_MESSAGES:
+общо 216
+-rw-r--r-- 1 root root  50383 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 165795 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/cs:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/cs/LC_MESSAGES:
+общо 452
+-rw-r--r-- 1 root root 140482 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 110469 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 206944 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/cy:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/cy/LC_MESSAGES:
+общо 196
+-rw-r--r-- 1 root root  27388 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  41908 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 124980 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/da:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/da/LC_MESSAGES:
+общо 440
+-rw-r--r-- 1 root root 136783 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 107179 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 200683 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/de:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/de/LC_MESSAGES:
+общо 464
+-rw-r--r-- 1 root root 144654 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 111209 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 211604 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/dz:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/dz/LC_MESSAGES:
+общо 304
+-rw-r--r-- 1 root root  34836 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  41564 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 227279 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/el:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/el/LC_MESSAGES:
+общо 512
+-rw-r--r-- 1 root root 118601 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 112274 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 287146 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/en:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/en/LC_MESSAGES:
+общо 8
+-rw-r--r-- 1 root root 3222 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  326 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/en_CA:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/en_CA/LC_MESSAGES:
+общо 232
+-rw-r--r-- 1 root root  80055 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  24800 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 123068 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/en_GB:
+общо 0
+drwxr-xr-x 2 root root 114 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/en_GB/LC_MESSAGES:
+общо 524
+-rw-r--r-- 1 root root  20089 юли 10 00:39 audacious.mo
+-rw-r--r-- 1 root root  75168 юли 10 00:39 audacious-plugins.mo
+-rw-r--r-- 1 root root 132500 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 104949 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 196126 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/en@shaw:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/en@shaw/LC_MESSAGES:
+общо 348
+-rw-r--r-- 1 root root  69722 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  87267 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 192348 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/eo:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/eo/LC_MESSAGES:
+общо 240
+-rw-r--r-- 1 root root  60288 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 107428 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  71036 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/es:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/es/LC_MESSAGES:
+общо 468
+-rw-r--r-- 1 root root 143953 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 111372 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 214224 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/et:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/et/LC_MESSAGES:
+общо 176
+-rw-r--r-- 1 root root 50929 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 59330 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 62674 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/eu:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/eu/LC_MESSAGES:
+общо 456
+-rw-r--r-- 1 root root 142571 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 110693 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 208501 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/fa:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/fa/LC_MESSAGES:
+общо 392
+-rw-r--r-- 1 root root 166839 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 126704 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 105487 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/fi:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/fi/LC_MESSAGES:
+общо 276
+-rw-r--r-- 1 root root  54693 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  76925 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 144712 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/fr:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/fr/LC_MESSAGES:
+общо 480
+-rw-r--r-- 1 root root 150948 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 113725 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 223110 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/fur:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/fur/LC_MESSAGES:
+общо 296
+-rw-r--r-- 1 root root 120084 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 106794 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  66315 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ga:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ga/LC_MESSAGES:
+общо 80
+-rw-r--r-- 1 root root 14727 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 54640 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  7246 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/gd:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/gd/LC_MESSAGES:
+общо 328
+-rw-r--r-- 1 root root  11432 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  95060 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 223292 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/gl:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/gl/LC_MESSAGES:
+общо 464
+-rw-r--r-- 1 root root 143640 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 111153 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 211289 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/gu:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/gu/LC_MESSAGES:
+общо 504
+-rw-r--r-- 1 root root 146023 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  94382 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 267238 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/he:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/he/LC_MESSAGES:
+общо 444
+-rw-r--r-- 1 root root 135799 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 118186 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 195938 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/hi:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/hi/LC_MESSAGES:
+общо 564
+-rw-r--r-- 1 root root 209905 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  98178 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 262580 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/hr:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/hr/LC_MESSAGES:
+общо 444
+-rw-r--r-- 1 root root 135478 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 108922 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 201474 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/hu:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/hu/LC_MESSAGES:
+общо 464
+-rw-r--r-- 1 root root 144991 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 112331 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 209513 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/hy:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/hy/LC_MESSAGES:
+общо 340
+-rw-r--r-- 1 root root  91532 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  46051 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 203909 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ia:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ia/LC_MESSAGES:
+общо 68
+-rw-r--r-- 1 root root 62677 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root   368 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/id:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/id/LC_MESSAGES:
+общо 436
+-rw-r--r-- 1 root root 135458 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 106227 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 199215 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ie:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ie/LC_MESSAGES:
+общо 68
+-rw-r--r-- 1 root root  4296 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 52216 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  7771 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/io:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/io/LC_MESSAGES:
+общо 20
+-rw-r--r-- 1 root root 15637 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root   396 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/is:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/is/LC_MESSAGES:
+общо 156
+-rw-r--r-- 1 root root  15106 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  34007 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 103154 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/it:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/it/LC_MESSAGES:
+общо 460
+-rw-r--r-- 1 root root 142375 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 110037 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 213429 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ja:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ja/LC_MESSAGES:
+общо 404
+-rw-r--r-- 1 root root 134573 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 105152 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 168739 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ka:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ka/LC_MESSAGES:
+общо 700
+-rw-r--r-- 1 root root 220082 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 157655 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 333464 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/kab:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/kab/LC_MESSAGES:
+общо 108
+-rw-r--r-- 1 root root 16070 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 69778 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 20243 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/kg:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/kg/LC_MESSAGES:
+общо 68
+-rw-r--r-- 1 root root 64698 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root   926 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/kk:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/kk/LC_MESSAGES:
+общо 180
+-rw-r--r-- 1 root root  30736 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 130293 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  19316 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/km:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/km/LC_MESSAGES:
+общо 396
+-rw-r--r-- 1 root root  88878 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 312135 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/kn:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/kn/LC_MESSAGES:
+общо 376
+-rw-r--r-- 1 root root 163773 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 108755 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 108755 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ko:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ko/LC_MESSAGES:
+общо 464
+-rw-r--r-- 1 root root 150245 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 113895 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 204858 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ku:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ku/LC_MESSAGES:
+общо 60
+-rw-r--r-- 1 root root  2827 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 50854 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  3268 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ky:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ky/LC_MESSAGES:
+общо 16
+-rw-r--r-- 1 root root 3986 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 8882 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/lg:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/lg/LC_MESSAGES:
+общо 52
+-rw-r--r-- 1 root root 45537 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root   412 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/li:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/li/LC_MESSAGES:
+общо 68
+-rw-r--r-- 1 root root  5337 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 60499 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/lt:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/lt/LC_MESSAGES:
+общо 444
+-rw-r--r-- 1 root root 138033 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 110189 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 204120 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/lv:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/lv/LC_MESSAGES:
+общо 448
+-rw-r--r-- 1 root root 140038 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 109753 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 203077 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/mai:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/mai/LC_MESSAGES:
+общо 316
+-rw-r--r-- 1 root root  43246 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  67142 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 208286 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/mg:
+общо 0
+drwxr-xr-x 2 root root 23 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/mg/LC_MESSAGES:
+общо 20
+-rw-r--r-- 1 root root 19581 юли 10 00:39 glib20.mo
+
+/opt/audacious-4.4/share/locale/mi:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/mi/LC_MESSAGES:
+общо 8
+-rw-r--r-- 1 root root 4088 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  422 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/mk:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/mk/LC_MESSAGES:
+общо 220
+-rw-r--r-- 1 root root  48242 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  32335 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 139384 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ml:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ml/LC_MESSAGES:
+общо 448
+-rw-r--r-- 1 root root  98667 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 100835 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 251904 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/mn:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/mn/LC_MESSAGES:
+общо 132
+-rw-r--r-- 1 root root  19171 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root   8714 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 101184 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/mr:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/mr/LC_MESSAGES:
+общо 520
+-rw-r--r-- 1 root root 146790 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  98368 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 280475 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ms:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ms/LC_MESSAGES:
+общо 424
+-rw-r--r-- 1 root root 126484 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 104825 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 198561 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/my:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/my/LC_MESSAGES:
+общо 324
+-rw-r--r-- 1 root root  78622 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 246119 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/nb:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/nb/LC_MESSAGES:
+общо 328
+-rw-r--r-- 1 root root  98797 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  97510 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 134081 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/nds:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/nds/LC_MESSAGES:
+общо 72
+-rw-r--r-- 1 root root  6441 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 31108 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 29993 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ne:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ne/LC_MESSAGES:
+общо 396
+-rw-r--r-- 1 root root 126034 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 118622 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 157457 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/nl:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/nl/LC_MESSAGES:
+общо 400
+-rw-r--r-- 1 root root  89647 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 109318 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 206134 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/nn:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/nn/LC_MESSAGES:
+общо 168
+-rw-r--r-- 1 root root 36259 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 53642 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 74360 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/nso:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/nso/LC_MESSAGES:
+общо 100
+-rw-r--r-- 1 root root  7852 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 90922 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/oc:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/oc/LC_MESSAGES:
+общо 424
+-rw-r--r-- 1 root root 109532 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  98671 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 218238 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/or:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/or/LC_MESSAGES:
+общо 492
+-rw-r--r-- 1 root root 153879 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  90912 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 251159 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/pa:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/pa/LC_MESSAGES:
+общо 580
+-rw-r--r-- 1 root root 164107 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 140953 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 280834 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/pl:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/pl/LC_MESSAGES:
+общо 468
+-rw-r--r-- 1 root root 145509 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 112269 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 213784 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ps:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ps/LC_MESSAGES:
+общо 64
+-rw-r--r-- 1 root root 11590 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 20000 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 32548 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/pt:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/pt/LC_MESSAGES:
+общо 456
+-rw-r--r-- 1 root root 141467 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 109822 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 209226 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/pt_BR:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/pt_BR/LC_MESSAGES:
+общо 456
+-rw-r--r-- 1 root root 141307 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 110799 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 208584 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ro:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ro/LC_MESSAGES:
+общо 460
+-rw-r--r-- 1 root root 141402 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 110950 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 211896 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ru:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ru/LC_MESSAGES:
+общо 588
+-rw-r--r-- 1 root root 185386 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 133871 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 276732 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/rw:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/rw/LC_MESSAGES:
+общо 12
+-rw-r--r-- 1 root root 2197 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 1270 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 3854 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/si:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/si/LC_MESSAGES:
+общо 76
+-rw-r--r-- 1 root root 11379 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 26341 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 33197 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sk:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sk/LC_MESSAGES:
+общо 436
+-rw-r--r-- 1 root root 126718 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 104457 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 209707 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sl:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sl/LC_MESSAGES:
+общо 444
+-rw-r--r-- 1 root root 138125 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 109211 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 201983 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sq:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sq/LC_MESSAGES:
+общо 228
+-rw-r--r-- 1 root root  38114 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  48723 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 140409 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sr:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sr/LC_MESSAGES:
+общо 564
+-rw-r--r-- 1 root root 175004 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 132701 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 263288 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sr@ije:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sr@ije/LC_MESSAGES:
+общо 132
+-rw-r--r-- 1 root root  15638 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root   9423 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 103682 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sr@latin:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sr@latin/LC_MESSAGES:
+общо 412
+-rw-r--r-- 1 root root 125979 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  89925 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 200962 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/sv:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/sv/LC_MESSAGES:
+общо 444
+-rw-r--r-- 1 root root 137222 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 108020 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 203670 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ta:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ta/LC_MESSAGES:
+общо 564
+-rw-r--r-- 1 root root 161163 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 107235 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 302375 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/te:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/te/LC_MESSAGES:
+общо 532
+-rw-r--r-- 1 root root 152584 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 104832 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 281235 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/tg:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/tg/LC_MESSAGES:
+общо 336
+-rw-r--r-- 1 root root   5165 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  86029 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 244050 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/th:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/th/LC_MESSAGES:
+общо 316
+-rw-r--r-- 1 root root 174848 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 119899 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  22657 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/tk:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/tk/LC_MESSAGES:
+общо 8
+-rw-r--r-- 1 root root 2226 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root  587 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/tl:
+общо 0
+drwxr-xr-x 2 root root 23 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/tl/LC_MESSAGES:
+общо 20
+-rw-r--r-- 1 root root 17881 юли 10 00:39 glib20.mo
+
+/opt/audacious-4.4/share/locale/tr:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/tr/LC_MESSAGES:
+общо 452
+-rw-r--r-- 1 root root 139858 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 109137 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 205786 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/tt:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/tt/LC_MESSAGES:
+общо 28
+-rw-r--r-- 1 root root  7076 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  4900 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 11982 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ug:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ug/LC_MESSAGES:
+общо 424
+-rw-r--r-- 1 root root 124524 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  73153 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 231023 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/uk:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/uk/LC_MESSAGES:
+общо 576
+-rw-r--r-- 1 root root 183618 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 131822 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 268591 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/ur:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/ur/LC_MESSAGES:
+общо 8
+-rw-r--r-- 1 root root 847 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 562 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/uz:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/uz/LC_MESSAGES:
+общо 56
+-rw-r--r-- 1 root root 31041 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 23892 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/uz@cyrillic:
+общо 0
+drwxr-xr-x 2 root root 49 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/uz@cyrillic/LC_MESSAGES:
+общо 68
+-rw-r--r-- 1 root root 35454 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 29736 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/vi:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/vi/LC_MESSAGES:
+общо 408
+-rw-r--r-- 1 root root 109755 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  89135 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 216255 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/wa:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/wa/LC_MESSAGES:
+общо 60
+-rw-r--r-- 1 root root  6350 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 17439 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 32602 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/xh:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/xh/LC_MESSAGES:
+общо 128
+-rw-r--r-- 1 root root 15950 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 11362 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 99440 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/yi:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/yi/LC_MESSAGES:
+общо 104
+-rw-r--r-- 1 root root 15877 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  7254 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 81432 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/zh_CN:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/zh_CN/LC_MESSAGES:
+общо 416
+-rw-r--r-- 1 root root 127983 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 104971 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 186430 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/zh_HK:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/zh_HK/LC_MESSAGES:
+общо 340
+-rw-r--r-- 1 root root  94873 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root  71184 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 173888 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/locale/zh_TW:
+общо 0
+drwxr-xr-x 2 root root 66 юли 10 00:39 LC_MESSAGES/
+
+/opt/audacious-4.4/share/locale/zh_TW/LC_MESSAGES:
+общо 412
+-rw-r--r-- 1 root root 123273 юли 10 00:39 glib20.mo
+-rw-r--r-- 1 root root 104460 юли 10 00:39 gtk30.mo
+-rw-r--r-- 1 root root 188162 юли 10 00:39 gtk30-properties.mo
+
+/opt/audacious-4.4/share/man:
+общо 4
+drwxr-xr-x 2 root root 4096 юли 10 00:39 man1/
+
+/opt/audacious-4.4/share/man/man1:
+общо 80
+-rw-r--r-- 1 root root 1709 юли 10 00:39 audacious.1.gz
+-rw-r--r-- 1 root root 1137 юли 10 00:39 broadwayd.1.gz
+-rw-r--r-- 1 root root 2299 юли 10 00:39 gapplication.1.gz
+-rw-r--r-- 1 root root 3236 юли 10 00:39 gdbus.1.gz
+-rw-r--r-- 1 root root 1193 юли 10 00:39 gi-compile-repository.1.gz
+-rw-r--r-- 1 root root 1435 юли 10 00:39 gi-decompile-typelib.1.gz
+-rw-r--r-- 1 root root  894 юли 10 00:39 gi-inspect-typelib.1.gz
+-rw-r--r-- 1 root root 4793 юли 10 00:39 gio.1.gz
+-rw-r--r-- 1 root root  680 юли 10 00:39 gio-querymodules.1.gz
+-rw-r--r-- 1 root root 2569 юли 10 00:39 glib-compile-resources.1.gz
+-rw-r--r-- 1 root root 1438 юли 10 00:39 glib-compile-schemas.1.gz
+-rw-r--r-- 1 root root  923 юли 10 00:39 glib-gettextize.1.gz
+-rw-r--r-- 1 root root  809 юли 10 00:39 gobject-query.1.gz
+-rw-r--r-- 1 root root 1512 юли 10 00:39 gsettings.1.gz
+-rw-r--r-- 1 root root 1075 юли 10 00:39 gtk-builder-tool.1.gz
+-rw-r--r-- 1 root root  857 юли 10 00:39 gtk-encode-symbolic-svg.1.gz
+-rw-r--r-- 1 root root  922 юли 10 00:39 gtk-launch.1.gz
+-rw-r--r-- 1 root root 1007 юли 10 00:39 gtk-query-immodules-3.0.1.gz
+-rw-r--r-- 1 root root  658 юли 10 00:39 gtk-query-settings.1.gz
+
+/opt/audacious-4.4/share/metainfo:
+общо 4
+-rw-r--r-- 1 root root 3137 юли 10 00:39 audacious.appdata.xml
+
+/opt/audacious-4.4/share/themes:
+общо 0
+drwxr-xr-x 3 root root 21 юли 10 00:39 Default/
+drwxr-xr-x 3 root root 21 юли 10 00:39 Emacs/
+
+/opt/audacious-4.4/share/themes/Default:
+общо 0
+drwxr-xr-x 2 root root 26 юли 10 00:39 gtk-3.0/
+
+/opt/audacious-4.4/share/themes/Default/gtk-3.0:
+общо 4
+-rw-r--r-- 1 root root 86 юли 10 00:39 gtk-keys.css
+
+/opt/audacious-4.4/share/themes/Emacs:
+общо 0
+drwxr-xr-x 2 root root 26 юли 10 00:39 gtk-3.0/
+
+/opt/audacious-4.4/share/themes/Emacs/gtk-3.0:
+общо 4
+-rw-r--r-- 1 root root 3854 юли 10 00:39 gtk-keys.css
